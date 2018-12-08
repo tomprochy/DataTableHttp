@@ -19,7 +19,7 @@ import { UserService } from './services/user.service';
     HttpClientModule,
     MatTableModule
   ],
-  providers: [UserService],,
+  providers: [UserService],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

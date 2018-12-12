@@ -1,10 +1,11 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, ViewChild } from '@angular/core';
 import { UserService } from '../../services/user.service';
 import { Observable } from 'rxjs';
 import {DataSource} from '@angular/cdk/collections';
 import { User } from '../../models/user.model';
 import {MatPaginatorModule} from '@angular/material/paginator';
-import { MatTableDataSource } from '@angular/material';
+import { MatTableDataSource,MatPaginator } from '@angular/material';
+import { JsonPipe } from '@angular/common';
 
 @Component({
   selector: 'usertable',
@@ -16,7 +17,11 @@ export class UsertableComponent implements OnInit {
   errorMessage: string;
   Users: User[] = []
   dataSource = new MatTableDataSource(this.Users);
-  displayedColumns = ['name', 'email', 'phone', 'company'];
+  displayedColumns = ['postId', 'id', 'email', 'name'];
+  num: number = 0;
+  @ViewChild(MatPaginator) paginator: MatPaginator;
+
+
   constructor(private userService: UserService) {
     console.log("inCtr");
    }
@@ -36,27 +41,29 @@ export class UsertableComponent implements OnInit {
   // }
   
   refreshData(): void{
-    this.userService.getUser().subscribe(
+    let a = this.userService.getUser().subscribe(
       Usersbb => {
       this.Users = Usersbb;
+      console.log("nactenaData poradi: "+ this.num);
+      // Varianta s printem dat.
+      //console.log("nactenaData poradi: "+ this.num + JSON.stringify(Usersbb));
+      this.num++;
     },
       error => 
       {
       this.errorMessage = <any>error;
       console.log(this.errorMessage);
-      
+      },
+      () =>
+      {
+        console.log("subscribe hotovo")
       }
     );
   }
 
+  ngAfterViewInit() {
+    this.dataSource.paginator = this.paginator;
+   // this.dataSource.sort = this.sort;
+  }
+
 }
-// export class UserDataSource extends DataSource<any> {
-//   constructor(private userService: UserService) {
-//     super();
-//     console.log("inCtr2");
-//   }
-//   connect(): Observable<User[]> {
-//     return this.userService.getUser();
-//   }
-//   disconnect() {}
-// }

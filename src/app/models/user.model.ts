@@ -1,6 +1,6 @@
 export interface User {
-    postId: number; //name
-    email: string; // email
-    id: number; //phone
-    name: string;
+    ID: number; //name
+    Locality: string; // email
+    PhoneNumber: string; //phone
+    MAC: string;
 }

@@ -4,7 +4,7 @@ import { Observable } from 'rxjs';
 import {DataSource} from '@angular/cdk/collections';
 import { User } from '../../models/user.model';
 import {MatPaginatorModule} from '@angular/material/paginator';
-import { MatTableDataSource,MatPaginator } from '@angular/material';
+import { MatTableDataSource,MatSort,MatPaginator } from '@angular/material';
 import { JsonPipe } from '@angular/common';
 
 @Component({
@@ -16,15 +16,18 @@ export class UsertableComponent implements OnInit {
   interval: any;
   errorMessage: string;
   Users: User[] = []
-  dataSource: MatTableDataSource<User>;
   
-  displayedColumns = ['ID', 'Locality', 'PhoneNumber', 'MAC'];
+  dataSource: MatTableDataSource<User>;
+  displayedColumns = ['postId', 'id', 'email', 'name'];
   num: number = 0;
   @ViewChild(MatPaginator) paginator: MatPaginator;
 
 
   constructor(private userService: UserService) {
     console.log("inCtr");
+    this.refreshData();
+    this.dataSource = new MatTableDataSource(this.Users);
+    
    }
   
   ngOnInit() {
@@ -33,6 +36,11 @@ export class UsertableComponent implements OnInit {
           this.interval = setInterval(() => { 
               this.refreshData(); 
           }, 5000);
+
+          setTimeout(() => {
+            this.dataSource.paginator = this.paginator; console.log('paginator hotov');
+          }, 10000);
+          
           
     }
   //   ngOnInit() {
@@ -58,15 +66,14 @@ export class UsertableComponent implements OnInit {
       },
       () =>
       {
-        this.dataSource = new MatTableDataSource(this.Users);
-        this.dataSource.paginator = this.paginator;
         console.log("subscribe hotovo")
       }
     );
   }
-// zde jsem skončil, je tam CORS problém - nastavil jsem data source do BM
-  ngAfterViewInit() {
 
+  ngAfterViewInit() {
+    console.log('on afterInit function');
+    this.dataSource.paginator = this.paginator;
    // this.dataSource.sort = this.sort;
   }
 

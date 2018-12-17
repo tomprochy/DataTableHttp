@@ -1,0 +1,4142 @@
+[
+    {
+        "ID": 1,
+        "Locality": "Antal Office",
+        "PhoneNumber": "83067",
+        "MAC": "0C680348B3A0"
+    },
+    {
+        "ID": 2,
+        "Locality": "Antal Office",
+        "PhoneNumber": "83067",
+        "MAC": "0C68035EB550"
+    },
+    {
+        "ID": 3,
+        "Locality": "Antal Office",
+        "PhoneNumber": "83067",
+        "MAC": "0C68032D8CB0"
+    },
+    {
+        "ID": 4,
+        "Locality": "Antal Office",
+        "PhoneNumber": "83067",
+        "MAC": "00F6632C0900"
+    },
+    {
+        "ID": 5,
+        "Locality": "Antal Office",
+        "PhoneNumber": "83067",
+        "MAC": "C8F9F94C7C80"
+    },
+    {
+        "ID": 6,
+        "Locality": "Antal Office",
+        "PhoneNumber": "83067",
+        "MAC": "C8F9F97234E0"
+    },
+    {
+        "ID": 7,
+        "Locality": "Antal Office",
+        "PhoneNumber": "83067",
+        "MAC": "88755682E590"
+    },
+    {
+        "ID": 8,
+        "Locality": "Antal Office",
+        "PhoneNumber": "83067",
+        "MAC": "88755682D630"
+    },
+    {
+        "ID": 9,
+        "Locality": "Antal Office",
+        "PhoneNumber": "83067",
+        "MAC": "8875566FAF40"
+    },
+    {
+        "ID": 10,
+        "Locality": "Antal Office",
+        "PhoneNumber": "83067",
+        "MAC": "8875566F5550"
+    },
+    {
+        "ID": 11,
+        "Locality": "Antal Office",
+        "PhoneNumber": "83067",
+        "MAC": "8875566F53E0"
+    },
+    {
+        "ID": 12,
+        "Locality": "Antal Office",
+        "PhoneNumber": "83067",
+        "MAC": "8875566F58B0"
+    },
+    {
+        "ID": 13,
+        "Locality": "Antal Office",
+        "PhoneNumber": "83067",
+        "MAC": "8875566F6F70"
+    },
+    {
+        "ID": 14,
+        "Locality": "Antal Office",
+        "PhoneNumber": "83067",
+        "MAC": "8875566F6B70"
+    },
+    {
+        "ID": 15,
+        "Locality": "Antal Office",
+        "PhoneNumber": "83067",
+        "MAC": "88755682C620"
+    },
+    {
+        "ID": 16,
+        "Locality": "Antal Office",
+        "PhoneNumber": "83067",
+        "MAC": "8875566F6AD0"
+    },
+    {
+        "ID": 17,
+        "Locality": "Antal Office",
+        "PhoneNumber": "83067",
+        "MAC": "8875566F6400"
+    },
+    {
+        "ID": 18,
+        "Locality": "Antal Office",
+        "PhoneNumber": "83067",
+        "MAC": "8875566FA110"
+    },
+    {
+        "ID": 19,
+        "Locality": "Antal Office",
+        "PhoneNumber": "83067",
+        "MAC": "88755682F8D0"
+    },
+    {
+        "ID": 20,
+        "Locality": "Antal Office",
+        "PhoneNumber": "83067",
+        "MAC": "88755682F420"
+    },
+    {
+        "ID": 21,
+        "Locality": "Antal Office",
+        "PhoneNumber": "83067",
+        "MAC": "54781A2104F0"
+    },
+    {
+        "ID": 22,
+        "Locality": "Antal Office",
+        "PhoneNumber": "83067",
+        "MAC": "8478ACF1F010"
+    },
+    {
+        "ID": 23,
+        "Locality": "Antal Office",
+        "PhoneNumber": "83067",
+        "MAC": "8478ACDFCEC0"
+    },
+    {
+        "ID": 24,
+        "Locality": "Antal Office",
+        "PhoneNumber": "83067",
+        "MAC": "0C68034922F0"
+    },
+    {
+        "ID": 25,
+        "Locality": "Antal Office",
+        "PhoneNumber": "83067",
+        "MAC": "0C6803492490"
+    },
+    {
+        "ID": 26,
+        "Locality": "Antal Office",
+        "PhoneNumber": "83067",
+        "MAC": "0C68034929A0"
+    },
+    {
+        "ID": 27,
+        "Locality": "Antal Office",
+        "PhoneNumber": "83067",
+        "MAC": "0C68032D8C60"
+    },
+    {
+        "ID": 28,
+        "Locality": "Antal Office",
+        "PhoneNumber": "83067",
+        "MAC": "0C68032D8DD0"
+    },
+    {
+        "ID": 29,
+        "Locality": "Antal Office",
+        "PhoneNumber": "83067",
+        "MAC": "0C68034928D0"
+    },
+    {
+        "ID": 30,
+        "Locality": "Antal Office",
+        "PhoneNumber": "83067",
+        "MAC": "0C68035F63D0"
+    },
+    {
+        "ID": 31,
+        "Locality": "Antal Office",
+        "PhoneNumber": "83067",
+        "MAC": "0C68035F63B0"
+    },
+    {
+        "ID": 32,
+        "Locality": "Antal Office",
+        "PhoneNumber": "83067",
+        "MAC": "0C68032D2510"
+    },
+    {
+        "ID": 33,
+        "Locality": "Antal Office",
+        "PhoneNumber": "83067",
+        "MAC": "0C6803493390"
+    },
+    {
+        "ID": 34,
+        "Locality": "Antal Office",
+        "PhoneNumber": "83067",
+        "MAC": "0C68032CBBA0"
+    },
+    {
+        "ID": 35,
+        "Locality": "Antal Office",
+        "PhoneNumber": "83067",
+        "MAC": "0C68035EF620"
+    },
+    {
+        "ID": 36,
+        "Locality": "Antal Office",
+        "PhoneNumber": "83067",
+        "MAC": "188B9DB443B0"
+    },
+    {
+        "ID": 37,
+        "Locality": "Antal Office",
+        "PhoneNumber": "83067",
+        "MAC": "188B9DC5F880"
+    },
+    {
+        "ID": 38,
+        "Locality": "Antal Office",
+        "PhoneNumber": "83067",
+        "MAC": "188B9DC5F4F0"
+    },
+    {
+        "ID": 39,
+        "Locality": "Antal Office",
+        "PhoneNumber": "83067",
+        "MAC": "188B9DD28C70"
+    },
+    {
+        "ID": 40,
+        "Locality": "Antal Office",
+        "PhoneNumber": "83067",
+        "MAC": "188B9DB44F40"
+    },
+    {
+        "ID": 41,
+        "Locality": "Antal Office",
+        "PhoneNumber": "83067",
+        "MAC": "ECE1A98F2200"
+    },
+    {
+        "ID": 42,
+        "Locality": "Antal Office",
+        "PhoneNumber": "83067",
+        "MAC": "ECE1A9B0F060"
+    },
+    {
+        "ID": 43,
+        "Locality": "Antal Office",
+        "PhoneNumber": "83067",
+        "MAC": "1005CA4EFFB0"
+    },
+    {
+        "ID": 44,
+        "Locality": "Antal Office",
+        "PhoneNumber": "83067",
+        "MAC": "1005CA4F0370"
+    },
+    {
+        "ID": 45,
+        "Locality": "Antal Office",
+        "PhoneNumber": "83067",
+        "MAC": "88F03157C450"
+    },
+    {
+        "ID": 46,
+        "Locality": "Antal Office",
+        "PhoneNumber": "83067",
+        "MAC": "88F031767270"
+    },
+    {
+        "ID": 47,
+        "Locality": "Antal Office",
+        "PhoneNumber": "83067",
+        "MAC": "88F03147BF00"
+    },
+    {
+        "ID": 48,
+        "Locality": "Antal Office",
+        "PhoneNumber": "83067",
+        "MAC": "88F03157A7A0"
+    },
+    {
+        "ID": 49,
+        "Locality": "Antal Office",
+        "PhoneNumber": "83067",
+        "MAC": "8875566f65a0"
+    },
+    {
+        "ID": 50,
+        "Locality": "Antal Office",
+        "PhoneNumber": "83067",
+        "MAC": "5C5015D03010"
+    },
+    {
+        "ID": 51,
+        "Locality": "Antal Office",
+        "PhoneNumber": "83067",
+        "MAC": "A46C2A66B540"
+    },
+    {
+        "ID": 52,
+        "Locality": "Antal Office",
+        "PhoneNumber": "83067",
+        "MAC": "88F03147A750"
+    },
+    {
+        "ID": 53,
+        "Locality": "Antal Office",
+        "PhoneNumber": "83067",
+        "MAC": "0C6803486F80"
+    },
+    {
+        "ID": 54,
+        "Locality": "Antal Office",
+        "PhoneNumber": "83067",
+        "MAC": "8478ACDFC3D0"
+    },
+    {
+        "ID": 55,
+        "Locality": "Antal Office",
+        "PhoneNumber": "83067",
+        "MAC": "20A6CDC58126"
+    },
+    {
+        "ID": 56,
+        "Locality": "Antal Office",
+        "PhoneNumber": "83067",
+        "MAC": "3817C3C74F9C"
+    },
+    {
+        "ID": 57,
+        "Locality": "AntalBeeMobileTestNetworkDpt",
+        "PhoneNumber": "83078",
+        "MAC": "A46C2A4AC5B0"
+    },
+    {
+        "ID": 58,
+        "Locality": "Aš_643",
+        "PhoneNumber": "48320",
+        "MAC": "A46C2A37BB90"
+    },
+    {
+        "ID": 59,
+        "Locality": "Aš_643",
+        "PhoneNumber": "48320",
+        "MAC": "A46C2A87B650"
+    },
+    {
+        "ID": 60,
+        "Locality": "Aš_643",
+        "PhoneNumber": "48320",
+        "MAC": "A46C2A881120"
+    },
+    {
+        "ID": 61,
+        "Locality": "Benešov_562",
+        "PhoneNumber": "30100",
+        "MAC": "24F27FC265F2"
+    },
+    {
+        "ID": 62,
+        "Locality": "Benešov_562",
+        "PhoneNumber": "30100",
+        "MAC": "24F27FC265D2"
+    },
+    {
+        "ID": 63,
+        "Locality": "Benešov_562",
+        "PhoneNumber": "30100",
+        "MAC": "24F27FC265EA"
+    },
+    {
+        "ID": 64,
+        "Locality": "Benešov_562",
+        "PhoneNumber": "30100",
+        "MAC": "24F27FC265EE"
+    },
+    {
+        "ID": 65,
+        "Locality": "Benešov_562",
+        "PhoneNumber": "30100",
+        "MAC": "24F27FC26590"
+    },
+    {
+        "ID": 66,
+        "Locality": "Benešov_562",
+        "PhoneNumber": "30100",
+        "MAC": "24F27FC2659A"
+    },
+    {
+        "ID": 67,
+        "Locality": "Benešov_562",
+        "PhoneNumber": "30100",
+        "MAC": "24F27FC265F4"
+    },
+    {
+        "ID": 68,
+        "Locality": "Benešov_562",
+        "PhoneNumber": "30100",
+        "MAC": "24F27FC265A4"
+    },
+    {
+        "ID": 69,
+        "Locality": "Bílina_205",
+        "PhoneNumber": "32400",
+        "MAC": "88F031766AF0"
+    },
+    {
+        "ID": 70,
+        "Locality": "Bílina_205",
+        "PhoneNumber": "32400",
+        "MAC": "904C81C695A8"
+    },
+    {
+        "ID": 71,
+        "Locality": "Bílina_205",
+        "PhoneNumber": "32400",
+        "MAC": "904C81C69A14"
+    },
+    {
+        "ID": 72,
+        "Locality": "Bohumín_355",
+        "PhoneNumber": "60330",
+        "MAC": "904C81C69470"
+    },
+    {
+        "ID": 73,
+        "Locality": "Bohumín_355",
+        "PhoneNumber": "60330",
+        "MAC": "904C81C6A1F2"
+    },
+    {
+        "ID": 74,
+        "Locality": "Bohumín_355",
+        "PhoneNumber": "60330",
+        "MAC": "904C81C69EB2"
+    },
+    {
+        "ID": 75,
+        "Locality": "Bohumín_355",
+        "PhoneNumber": "60330",
+        "MAC": "904C81C6BD40"
+    },
+    {
+        "ID": 76,
+        "Locality": "Brno - Kobližná_2",
+        "PhoneNumber": "50350",
+        "MAC": "A46C2A66B6A0"
+    },
+    {
+        "ID": 77,
+        "Locality": "Brno - Kobližná_2",
+        "PhoneNumber": "50350",
+        "MAC": "A46C2A66B680"
+    },
+    {
+        "ID": 78,
+        "Locality": "Brno - Kobližná_2",
+        "PhoneNumber": "50350",
+        "MAC": "00B0E1A49C20"
+    },
+    {
+        "ID": 79,
+        "Locality": "Brno - Masarykova_5",
+        "PhoneNumber": "50300",
+        "MAC": "904C81C6A0B6"
+    },
+    {
+        "ID": 80,
+        "Locality": "Brno - Masarykova_5",
+        "PhoneNumber": "50300",
+        "MAC": "904C81C6B470"
+    },
+    {
+        "ID": 81,
+        "Locality": "Brno - Masarykova_5",
+        "PhoneNumber": "50300",
+        "MAC": "904C81C6AB12"
+    },
+    {
+        "ID": 82,
+        "Locality": "Brno - Masarykova_5",
+        "PhoneNumber": "50300",
+        "MAC": "904C81C69560"
+    },
+    {
+        "ID": 83,
+        "Locality": "Brno - OC Globus Ivanovice_34",
+        "PhoneNumber": "50690",
+        "MAC": "904C81C6CB4A"
+    },
+    {
+        "ID": 84,
+        "Locality": "Brno - OC Globus Ivanovice_34",
+        "PhoneNumber": "50690",
+        "MAC": "904C81C6986A"
+    },
+    {
+        "ID": 85,
+        "Locality": "Břeclav_51",
+        "PhoneNumber": "56000",
+        "MAC": "00B0E1A4AFE0"
+    },
+    {
+        "ID": 86,
+        "Locality": "Břeclav_51",
+        "PhoneNumber": "56000",
+        "MAC": "00B0E1A6F060"
+    },
+    {
+        "ID": 87,
+        "Locality": "Břeclav_51",
+        "PhoneNumber": "56000",
+        "MAC": "00FEC8D63CB0"
+    },
+    {
+        "ID": 88,
+        "Locality": "Břeclav_51",
+        "PhoneNumber": "56000",
+        "MAC": "A46C2A379FE0"
+    },
+    {
+        "ID": 89,
+        "Locality": "Břeclav_51",
+        "PhoneNumber": "56000",
+        "MAC": "A46C2A66B3F0"
+    },
+    {
+        "ID": 90,
+        "Locality": "Břeclav_51",
+        "PhoneNumber": "56000",
+        "MAC": "A46C2A7FC6D0"
+    },
+    {
+        "ID": 91,
+        "Locality": "Břeclav_51",
+        "PhoneNumber": "56000",
+        "MAC": "A46C2A87B660"
+    },
+    {
+        "ID": 92,
+        "Locality": "Bystřice pod Hostýnem_95",
+        "PhoneNumber": "54260",
+        "MAC": "904C81C6CE00"
+    },
+    {
+        "ID": 93,
+        "Locality": "Bystřice pod Hostýnem_95",
+        "PhoneNumber": "54260",
+        "MAC": "904C81C69A6A"
+    },
+    {
+        "ID": 94,
+        "Locality": "Bystřice pod Hostýnem_95",
+        "PhoneNumber": "54260",
+        "MAC": "904C81C6B94E"
+    },
+    {
+        "ID": 95,
+        "Locality": "CP Ostrava Hornopolní 3322",
+        "PhoneNumber": "61410",
+        "MAC": "0C68032D8CE0"
+    },
+    {
+        "ID": 96,
+        "Locality": "CP Pardubice Tř. Míru 72",
+        "PhoneNumber": "41160",
+        "MAC": "188B9DD26660"
+    },
+    {
+        "ID": 97,
+        "Locality": "Č. Budějovice - Lidická_593",
+        "PhoneNumber": "44570",
+        "MAC": "904C81C6C680"
+    },
+    {
+        "ID": 98,
+        "Locality": "Č. Budějovice - Lidická_593",
+        "PhoneNumber": "44570",
+        "MAC": "904C81C6AE50"
+    },
+    {
+        "ID": 99,
+        "Locality": "Č. Budějovice - Lidická_593",
+        "PhoneNumber": "44570",
+        "MAC": "904C81C69532"
+    },
+    {
+        "ID": 100,
+        "Locality": "Č. Budějovice - Lidická_593",
+        "PhoneNumber": "44570",
+        "MAC": "904C81C6C98A"
+    },
+    {
+        "ID": 101,
+        "Locality": "Č. Budějovice - OC Globus_590",
+        "PhoneNumber": "44930",
+        "MAC": "904C81C6AACA"
+    },
+    {
+        "ID": 102,
+        "Locality": "Č. Budějovice - OC Globus_590",
+        "PhoneNumber": "44930",
+        "MAC": "904C81C6C63E"
+    },
+    {
+        "ID": 103,
+        "Locality": "Č. Budějovice - OC Globus_590",
+        "PhoneNumber": "44930",
+        "MAC": "A46C2A712960"
+    },
+    {
+        "ID": 104,
+        "Locality": "Čáslav_236",
+        "PhoneNumber": "28200",
+        "MAC": "346288E388F0"
+    },
+    {
+        "ID": 105,
+        "Locality": "Čáslav_236",
+        "PhoneNumber": "28200",
+        "MAC": "84802D2B4B00"
+    },
+    {
+        "ID": 106,
+        "Locality": "Černý Most_517",
+        "PhoneNumber": "21890",
+        "MAC": "904C81C6BF32"
+    },
+    {
+        "ID": 107,
+        "Locality": "Černý Most_517",
+        "PhoneNumber": "21890",
+        "MAC": "904C81C6CCB8"
+    },
+    {
+        "ID": 108,
+        "Locality": "Červený Kostelec_274",
+        "PhoneNumber": "36390",
+        "MAC": "00FEC8AA2660"
+    },
+    {
+        "ID": 109,
+        "Locality": "Červený Kostelec_274",
+        "PhoneNumber": "36390",
+        "MAC": "A46C2A2091A0"
+    },
+    {
+        "ID": 110,
+        "Locality": "Český Brod_230",
+        "PhoneNumber": "28260",
+        "MAC": "904C81C6C3B8"
+    },
+    {
+        "ID": 111,
+        "Locality": "Český Brod_230",
+        "PhoneNumber": "28260",
+        "MAC": "904C81C6C6CC"
+    },
+    {
+        "ID": 112,
+        "Locality": "Český Brod_230",
+        "PhoneNumber": "28260",
+        "MAC": "904C81C69B5A"
+    },
+    {
+        "ID": 113,
+        "Locality": "Český Krumlov_595",
+        "PhoneNumber": "44360",
+        "MAC": "346288E38A20"
+    },
+    {
+        "ID": 114,
+        "Locality": "Český Krumlov_595",
+        "PhoneNumber": "44360",
+        "MAC": "84802D4FC120"
+    },
+    {
+        "ID": 115,
+        "Locality": "Děčín - OC Oblouková_170",
+        "PhoneNumber": "32720",
+        "MAC": "A46C2A513F40"
+    },
+    {
+        "ID": 116,
+        "Locality": "Děčín_167",
+        "PhoneNumber": "32150",
+        "MAC": "904C81C6C8EA"
+    },
+    {
+        "ID": 117,
+        "Locality": "Děčín_167",
+        "PhoneNumber": "32150",
+        "MAC": "808DB7C705F6"
+    },
+    {
+        "ID": 118,
+        "Locality": "Děčín_167",
+        "PhoneNumber": "32150",
+        "MAC": "808DB7C6EB00"
+    },
+    {
+        "ID": 119,
+        "Locality": "Děčín_167",
+        "PhoneNumber": "32150",
+        "MAC": "808DB7C70A3A"
+    },
+    {
+        "ID": 120,
+        "Locality": "Děčín_167",
+        "PhoneNumber": "32150",
+        "MAC": "808DB7C6F75A"
+    },
+    {
+        "ID": 121,
+        "Locality": "Děčín_167",
+        "PhoneNumber": "32150",
+        "MAC": "808DB7C6FD16"
+    },
+    {
+        "ID": 122,
+        "Locality": "Děčín_167",
+        "PhoneNumber": "32150",
+        "MAC": "808DB7C6DFD6"
+    },
+    {
+        "ID": 123,
+        "Locality": "Dělnická_495",
+        "PhoneNumber": "23440",
+        "MAC": "ECE1A9B100E0"
+    },
+    {
+        "ID": 124,
+        "Locality": "Dělnická_495",
+        "PhoneNumber": "23440",
+        "MAC": "A46C2A66B700"
+    },
+    {
+        "ID": 125,
+        "Locality": "Dlouhá_449",
+        "PhoneNumber": "20330",
+        "MAC": "00426803FCB0"
+    },
+    {
+        "ID": 126,
+        "Locality": "Dlouhá_449",
+        "PhoneNumber": "20330",
+        "MAC": "84802D2B3440"
+    },
+    {
+        "ID": 127,
+        "Locality": "Dobřichovice_537",
+        "PhoneNumber": "30260",
+        "MAC": "904C81C6950A"
+    },
+    {
+        "ID": 128,
+        "Locality": "Dobřichovice_537",
+        "PhoneNumber": "30260",
+        "MAC": "904C81C6A7AE"
+    },
+    {
+        "ID": 129,
+        "Locality": "Dobříš_571",
+        "PhoneNumber": "30200",
+        "MAC": "00FEC8A01640"
+    },
+    {
+        "ID": 130,
+        "Locality": "Dobříš_571",
+        "PhoneNumber": "30200",
+        "MAC": "00FEC8DAD7E0"
+    },
+    {
+        "ID": 131,
+        "Locality": "Dvůr Králové nad Labem_314",
+        "PhoneNumber": "36180",
+        "MAC": "904C81C6AA3A"
+    },
+    {
+        "ID": 132,
+        "Locality": "Dvůr Králové nad Labem_314",
+        "PhoneNumber": "36180",
+        "MAC": "904C81C6C8FA"
+    },
+    {
+        "ID": 133,
+        "Locality": "Dvůr Králové nad Labem_314",
+        "PhoneNumber": "36180",
+        "MAC": "904C81C6C316"
+    },
+    {
+        "ID": 134,
+        "Locality": "Frenštát pod Radhoštěm_353",
+        "PhoneNumber": "60930",
+        "MAC": "004268344F30"
+    },
+    {
+        "ID": 135,
+        "Locality": "Frenštát pod Radhoštěm_353",
+        "PhoneNumber": "60930",
+        "MAC": "A46C2A37BB30"
+    },
+    {
+        "ID": 136,
+        "Locality": "Frýdek-Místek_372",
+        "PhoneNumber": "60150",
+        "MAC": "808DB7C70266"
+    },
+    {
+        "ID": 137,
+        "Locality": "Frýdek-Místek_372",
+        "PhoneNumber": "60150",
+        "MAC": "808DB7C6FB24"
+    },
+    {
+        "ID": 138,
+        "Locality": "Frýdek-Místek_372",
+        "PhoneNumber": "60150",
+        "MAC": "808DB7C6E0E6"
+    },
+    {
+        "ID": 139,
+        "Locality": "Frýdek-Místek_372",
+        "PhoneNumber": "60150",
+        "MAC": "808DB7C70708"
+    },
+    {
+        "ID": 140,
+        "Locality": "Frýdek-Místek_372",
+        "PhoneNumber": "60150",
+        "MAC": "808DB7C707C6"
+    },
+    {
+        "ID": 141,
+        "Locality": "Frýdek-Místek_372",
+        "PhoneNumber": "60150",
+        "MAC": "808DB7C6E0B2"
+    },
+    {
+        "ID": 142,
+        "Locality": "Frýdek-Místek_372",
+        "PhoneNumber": "60150",
+        "MAC": "808DB7C7046E"
+    },
+    {
+        "ID": 143,
+        "Locality": "Frýdlant v Čechách_184",
+        "PhoneNumber": "34230",
+        "MAC": "0042681F3190"
+    },
+    {
+        "ID": 144,
+        "Locality": "Frýdlant v Čechách_184",
+        "PhoneNumber": "34230",
+        "MAC": "A46C2A6C1F20"
+    },
+    {
+        "ID": 145,
+        "Locality": "Frýdlant v Čechách_184",
+        "PhoneNumber": "34230",
+        "MAC": "ECE1A98F0C00"
+    },
+    {
+        "ID": 146,
+        "Locality": "Frýdlant v Čechách_184",
+        "PhoneNumber": "34230",
+        "MAC": "ECE1A98F3540"
+    },
+    {
+        "ID": 147,
+        "Locality": "Frýdlant v Čechách_184",
+        "PhoneNumber": "34230",
+        "MAC": "ECE1A98F44A0"
+    },
+    {
+        "ID": 148,
+        "Locality": "Futurum Hradec Králové_223",
+        "PhoneNumber": "38260",
+        "MAC": "904C81C6B1FA"
+    },
+    {
+        "ID": 149,
+        "Locality": "Futurum Hradec Králové_223",
+        "PhoneNumber": "38260",
+        "MAC": "904C81C6A476"
+    },
+    {
+        "ID": 150,
+        "Locality": "GEMINI_472",
+        "PhoneNumber": "22040",
+        "MAC": "20A6CDC581EE"
+    },
+    {
+        "ID": 151,
+        "Locality": "GEMINI_472",
+        "PhoneNumber": "22040",
+        "MAC": "20A6CDC581C6"
+    },
+    {
+        "ID": 152,
+        "Locality": "Havířov - Město_384",
+        "PhoneNumber": "60200",
+        "MAC": "3817C3C2351E"
+    },
+    {
+        "ID": 153,
+        "Locality": "Havířov - Město_384",
+        "PhoneNumber": "60200",
+        "MAC": "3817C3C235A2"
+    },
+    {
+        "ID": 154,
+        "Locality": "Havířov - Město_384",
+        "PhoneNumber": "60200",
+        "MAC": "3817C3C2357C"
+    },
+    {
+        "ID": 155,
+        "Locality": "Havířov - Město_384",
+        "PhoneNumber": "60200",
+        "MAC": "3817C3C23586"
+    },
+    {
+        "ID": 156,
+        "Locality": "Havířov - Město_384",
+        "PhoneNumber": "60200",
+        "MAC": "3817C3C2355E"
+    },
+    {
+        "ID": 157,
+        "Locality": "Havířov - Město_384",
+        "PhoneNumber": "60200",
+        "MAC": "3817C3C2357A"
+    },
+    {
+        "ID": 158,
+        "Locality": "Havířov - Město_384",
+        "PhoneNumber": "60200",
+        "MAC": "3817C3C232E2"
+    },
+    {
+        "ID": 159,
+        "Locality": "Havířov - Město_384",
+        "PhoneNumber": "60200",
+        "MAC": "3817C3C2353C"
+    },
+    {
+        "ID": 160,
+        "Locality": "Havířov - Šumbark_388",
+        "PhoneNumber": "60680",
+        "MAC": "A46C2A70F380"
+    },
+    {
+        "ID": 161,
+        "Locality": "HC Pardubice",
+        "PhoneNumber": "40900",
+        "MAC": "20A6CDC580DA"
+    },
+    {
+        "ID": 162,
+        "Locality": "HC Pardubice",
+        "PhoneNumber": "40900",
+        "MAC": "904C81C69CEA"
+    },
+    {
+        "ID": 163,
+        "Locality": "HC Pardubice",
+        "PhoneNumber": "40900",
+        "MAC": "808DB7C70850"
+    },
+    {
+        "ID": 164,
+        "Locality": "HC Pardubice",
+        "PhoneNumber": "40900",
+        "MAC": "808DB7C6FE54"
+    },
+    {
+        "ID": 165,
+        "Locality": "HC Pardubice",
+        "PhoneNumber": "40900",
+        "MAC": "808DB7C6EB98"
+    },
+    {
+        "ID": 166,
+        "Locality": "HC Pardubice",
+        "PhoneNumber": "40900",
+        "MAC": "808DB7C706BA"
+    },
+    {
+        "ID": 167,
+        "Locality": "HC Pardubice",
+        "PhoneNumber": "40900",
+        "MAC": "3817C3C23584"
+    },
+    {
+        "ID": 168,
+        "Locality": "HC Pardubice",
+        "PhoneNumber": "40900",
+        "MAC": "808DB7C6F5A2"
+    },
+    {
+        "ID": 169,
+        "Locality": "HC Pardubice",
+        "PhoneNumber": "40900",
+        "MAC": "808DB7C6FDEC"
+    },
+    {
+        "ID": 170,
+        "Locality": "HC Pardubice",
+        "PhoneNumber": "40900",
+        "MAC": "808DB7C6FBB8"
+    },
+    {
+        "ID": 171,
+        "Locality": "HC Pardubice",
+        "PhoneNumber": "40900",
+        "MAC": "808DB7C6EBEC"
+    },
+    {
+        "ID": 172,
+        "Locality": "HC Pardubice",
+        "PhoneNumber": "40900",
+        "MAC": "808DB7C6F3B2"
+    },
+    {
+        "ID": 173,
+        "Locality": "HC Pardubice",
+        "PhoneNumber": "40900",
+        "MAC": "808DB7C6F276"
+    },
+    {
+        "ID": 174,
+        "Locality": "HC Pardubice",
+        "PhoneNumber": "40900",
+        "MAC": "808DB7C7007A"
+    },
+    {
+        "ID": 175,
+        "Locality": "HC Pardubice",
+        "PhoneNumber": "40900",
+        "MAC": "20A6CDC5814A"
+    },
+    {
+        "ID": 176,
+        "Locality": "HC Pardubice",
+        "PhoneNumber": "40900",
+        "MAC": "808DB7C6EF58"
+    },
+    {
+        "ID": 177,
+        "Locality": "Hluboká nad Vltavou_583",
+        "PhoneNumber": "44650",
+        "MAC": "0042681F77F0"
+    },
+    {
+        "ID": 178,
+        "Locality": "Hluboká nad Vltavou_583",
+        "PhoneNumber": "44650",
+        "MAC": "A46C2A817300"
+    },
+    {
+        "ID": 179,
+        "Locality": "Holýšov_637",
+        "PhoneNumber": "46540",
+        "MAC": "904C81C6967E"
+    },
+    {
+        "ID": 180,
+        "Locality": "Holýšov_637",
+        "PhoneNumber": "46540",
+        "MAC": "904C81C6A4BA"
+    },
+    {
+        "ID": 181,
+        "Locality": "Holýšov_637",
+        "PhoneNumber": "46540",
+        "MAC": "904C81C6AAB6"
+    },
+    {
+        "ID": 182,
+        "Locality": "Horažďovice_548",
+        "PhoneNumber": "46730",
+        "MAC": "0059DC872D00"
+    },
+    {
+        "ID": 183,
+        "Locality": "Horažďovice_548",
+        "PhoneNumber": "46730",
+        "MAC": "0078888FB680"
+    },
+    {
+        "ID": 184,
+        "Locality": "Horní Měcholupy_531",
+        "PhoneNumber": "21860",
+        "MAC": "A46C2A70F6D0"
+    },
+    {
+        "ID": 185,
+        "Locality": "Hořice_265",
+        "PhoneNumber": "38240",
+        "MAC": "00B0E1A493C0"
+    },
+    {
+        "ID": 186,
+        "Locality": "Hořice_265",
+        "PhoneNumber": "38240",
+        "MAC": "00FEC8DAD900"
+    },
+    {
+        "ID": 187,
+        "Locality": "Hostivice_532",
+        "PhoneNumber": "24360",
+        "MAC": "904C81C6C74E"
+    },
+    {
+        "ID": 188,
+        "Locality": "Hostivice_532",
+        "PhoneNumber": "24360",
+        "MAC": "904C81C69CA2"
+    },
+    {
+        "ID": 189,
+        "Locality": "Hradec Králové - ČSA_218",
+        "PhoneNumber": "38000",
+        "MAC": "007888DEB420"
+    },
+    {
+        "ID": 190,
+        "Locality": "Hradec Králové - ČSA_218",
+        "PhoneNumber": "38000",
+        "MAC": "8478ACDFDEB0"
+    },
+    {
+        "ID": 191,
+        "Locality": "Hradec Králové - ČSA_218",
+        "PhoneNumber": "38000",
+        "MAC": "8478ACDFC140"
+    },
+    {
+        "ID": 192,
+        "Locality": "Hradec Králové - ČSA_218",
+        "PhoneNumber": "38000",
+        "MAC": "ECE1A9B0FD00"
+    },
+    {
+        "ID": 193,
+        "Locality": "Hradec Králové - ČSA_218",
+        "PhoneNumber": "38000",
+        "MAC": "ECE1A9B10CF0"
+    },
+    {
+        "ID": 194,
+        "Locality": "Hradec Králové - ČSA_218",
+        "PhoneNumber": "38000",
+        "MAC": "84802D2B3410"
+    },
+    {
+        "ID": 195,
+        "Locality": "Hradec Králové - ČSA_218",
+        "PhoneNumber": "38000",
+        "MAC": "84802D2B48F0"
+    },
+    {
+        "ID": 196,
+        "Locality": "Hradec Králové - ČSA_218",
+        "PhoneNumber": "38000",
+        "MAC": "84802D4FC0B0"
+    },
+    {
+        "ID": 197,
+        "Locality": "Hradec Králové - ČSA_218",
+        "PhoneNumber": "38000",
+        "MAC": "84802D4F99C0"
+    },
+    {
+        "ID": 198,
+        "Locality": "Hradec Králové - ČSA_218",
+        "PhoneNumber": "38000",
+        "MAC": "84802D4FC0F0"
+    },
+    {
+        "ID": 199,
+        "Locality": "Hradec Králové - ČSA_218",
+        "PhoneNumber": "38000",
+        "MAC": "84802D4FBE90"
+    },
+    {
+        "ID": 200,
+        "Locality": "Hradec Králové - ČSA_218",
+        "PhoneNumber": "38000",
+        "MAC": "346288E38790"
+    },
+    {
+        "ID": 201,
+        "Locality": "Hradec Králové - ČSA_218",
+        "PhoneNumber": "38000",
+        "MAC": "84802D2B47C0"
+    },
+    {
+        "ID": 202,
+        "Locality": "Hradec Králové - ČSA_218",
+        "PhoneNumber": "38000",
+        "MAC": "84802D4FCEE0"
+    },
+    {
+        "ID": 203,
+        "Locality": "Hradec Králové - ČSA_218",
+        "PhoneNumber": "38000",
+        "MAC": "ECE1A9B0D440"
+    },
+    {
+        "ID": 204,
+        "Locality": "Hradec Králové - ČSA_218",
+        "PhoneNumber": "38000",
+        "MAC": "ECE1A98F0790"
+    },
+    {
+        "ID": 205,
+        "Locality": "Hradec Králové - ČSA_218",
+        "PhoneNumber": "38000",
+        "MAC": "ECE1A98F3190"
+    },
+    {
+        "ID": 206,
+        "Locality": "Hradec Králové - ČSA_218",
+        "PhoneNumber": "38000",
+        "MAC": "ECE1A9B10220"
+    },
+    {
+        "ID": 207,
+        "Locality": "Hradec Králové - ČSA_218",
+        "PhoneNumber": "38000",
+        "MAC": "ECE1A98F3040"
+    },
+    {
+        "ID": 208,
+        "Locality": "Hradec Králové - ČSA_218",
+        "PhoneNumber": "38000",
+        "MAC": "ECE1A98F44B0"
+    },
+    {
+        "ID": 209,
+        "Locality": "Hradec Králové - ČSA_218",
+        "PhoneNumber": "38000",
+        "MAC": "ECE1A9B10CC0"
+    },
+    {
+        "ID": 210,
+        "Locality": "Hradec Králové - OC Aupark_220",
+        "PhoneNumber": "37980",
+        "MAC": "904C81C6BAFA"
+    },
+    {
+        "ID": 211,
+        "Locality": "Hradec Králové - OC Aupark_220",
+        "PhoneNumber": "37980",
+        "MAC": "904C81C6CB8C"
+    },
+    {
+        "ID": 212,
+        "Locality": "Hrádek na Nisou_186",
+        "PhoneNumber": "34320",
+        "MAC": "904C81C69318"
+    },
+    {
+        "ID": 213,
+        "Locality": "Hrádek na Nisou_186",
+        "PhoneNumber": "34320",
+        "MAC": "904C81C6992E"
+    },
+    {
+        "ID": 214,
+        "Locality": "Hrádek na Nisou_186",
+        "PhoneNumber": "34320",
+        "MAC": "904C81C6C426"
+    },
+    {
+        "ID": 215,
+        "Locality": "Hranice_430",
+        "PhoneNumber": "52280",
+        "MAC": "00B0E1A49C60"
+    },
+    {
+        "ID": 216,
+        "Locality": "Hranice_430",
+        "PhoneNumber": "52280",
+        "MAC": "00B0E1A52C00"
+    },
+    {
+        "ID": 217,
+        "Locality": "Hranice_430",
+        "PhoneNumber": "52280",
+        "MAC": "84802D4FD370"
+    },
+    {
+        "ID": 218,
+        "Locality": "Hranice_430",
+        "PhoneNumber": "52280",
+        "MAC": "ECE1A98F3A00"
+    },
+    {
+        "ID": 219,
+        "Locality": "Hranice_430",
+        "PhoneNumber": "52280",
+        "MAC": "ECE1A9B10A40"
+    },
+    {
+        "ID": 220,
+        "Locality": "Hrušovany nad Jevišovkou_120",
+        "PhoneNumber": "56360",
+        "MAC": "904C81C6AD3A"
+    },
+    {
+        "ID": 221,
+        "Locality": "Hrušovany nad Jevišovkou_120",
+        "PhoneNumber": "56360",
+        "MAC": "904C81C6C4F8"
+    },
+    {
+        "ID": 222,
+        "Locality": "Humpolec_36",
+        "PhoneNumber": "42240",
+        "MAC": "904C81C6935A"
+    },
+    {
+        "ID": 223,
+        "Locality": "Humpolec_36",
+        "PhoneNumber": "42240",
+        "MAC": "904C81C69E4E"
+    },
+    {
+        "ID": 224,
+        "Locality": "Humpolec_36",
+        "PhoneNumber": "42240",
+        "MAC": "904C81C6C72E"
+    },
+    {
+        "ID": 225,
+        "Locality": "Humpolec_36",
+        "PhoneNumber": "42240",
+        "MAC": "904C81C6C0B6"
+    },
+    {
+        "ID": 226,
+        "Locality": "Husovice_10",
+        "PhoneNumber": "50560",
+        "MAC": "904C81C6989A"
+    },
+    {
+        "ID": 227,
+        "Locality": "Husovice_10",
+        "PhoneNumber": "50560",
+        "MAC": "904C81C6BB0A"
+    },
+    {
+        "ID": 228,
+        "Locality": "Hustopeče u Brna_52",
+        "PhoneNumber": "56270",
+        "MAC": "A46C2A51D300"
+    },
+    {
+        "ID": 229,
+        "Locality": "Cheb_642",
+        "PhoneNumber": "48200",
+        "MAC": "84802D2B3980"
+    },
+    {
+        "ID": 230,
+        "Locality": "Cheb_642",
+        "PhoneNumber": "48200",
+        "MAC": "A46C2A66B460"
+    },
+    {
+        "ID": 231,
+        "Locality": "Cheb_642",
+        "PhoneNumber": "48200",
+        "MAC": "ECE1A9B0CE30"
+    },
+    {
+        "ID": 232,
+        "Locality": "Cheb_642",
+        "PhoneNumber": "48200",
+        "MAC": "8875566F9D70"
+    },
+    {
+        "ID": 233,
+        "Locality": "Cheb_642",
+        "PhoneNumber": "48200",
+        "MAC": "346288E39480"
+    },
+    {
+        "ID": 234,
+        "Locality": "Choceň_326",
+        "PhoneNumber": "40460",
+        "MAC": "904C81C6B708"
+    },
+    {
+        "ID": 235,
+        "Locality": "Choceň_326",
+        "PhoneNumber": "40460",
+        "MAC": "904C81C6B85C"
+    },
+    {
+        "ID": 236,
+        "Locality": "Choceň_326",
+        "PhoneNumber": "40460",
+        "MAC": "904C81C6C812"
+    },
+    {
+        "ID": 237,
+        "Locality": "Chrudim_253",
+        "PhoneNumber": "40100",
+        "MAC": "808DB7C6EEEE"
+    },
+    {
+        "ID": 238,
+        "Locality": "Chrudim_253",
+        "PhoneNumber": "40100",
+        "MAC": "808DB7C6E156"
+    },
+    {
+        "ID": 239,
+        "Locality": "Chrudim_253",
+        "PhoneNumber": "40100",
+        "MAC": "808DB7C709E8"
+    },
+    {
+        "ID": 240,
+        "Locality": "Chrudim_253",
+        "PhoneNumber": "40100",
+        "MAC": "808DB7C6E82E"
+    },
+    {
+        "ID": 241,
+        "Locality": "IGY České Budějovice_592",
+        "PhoneNumber": "44580",
+        "MAC": "904C81C6B77A"
+    },
+    {
+        "ID": 242,
+        "Locality": "IGY České Budějovice_592",
+        "PhoneNumber": "44580",
+        "MAC": "904C81C6ADA0"
+    },
+    {
+        "ID": 243,
+        "Locality": "IGY České Budějovice_592",
+        "PhoneNumber": "44580",
+        "MAC": "904C81C6B3B4"
+    },
+    {
+        "ID": 244,
+        "Locality": "ITHD_test",
+        "PhoneNumber": "43150",
+        "MAC": "0078885B5ACC"
+    },
+    {
+        "ID": 245,
+        "Locality": "ITHD_test",
+        "PhoneNumber": "43150",
+        "MAC": "8478ACDFE240"
+    },
+    {
+        "ID": 246,
+        "Locality": "ITHD_test",
+        "PhoneNumber": "43150",
+        "MAC": "8478ACDFEAA0"
+    },
+    {
+        "ID": 247,
+        "Locality": "ITHD_test",
+        "PhoneNumber": "43150",
+        "MAC": "8478ACDFCD70"
+    },
+    {
+        "ID": 248,
+        "Locality": "ITHD_test",
+        "PhoneNumber": "43150",
+        "MAC": "8478ACDFE600"
+    },
+    {
+        "ID": 249,
+        "Locality": "ITHD_test",
+        "PhoneNumber": "43150",
+        "MAC": "8478ACDFC340"
+    },
+    {
+        "ID": 250,
+        "Locality": "Jablonec nad NIsou_178",
+        "PhoneNumber": "34150",
+        "MAC": "84802D4FB1D0"
+    },
+    {
+        "ID": 251,
+        "Locality": "Jablonec nad NIsou_178",
+        "PhoneNumber": "34150",
+        "MAC": "84802D4FCAF0"
+    },
+    {
+        "ID": 252,
+        "Locality": "Jablonec nad NIsou_178",
+        "PhoneNumber": "34150",
+        "MAC": "84802D4FBFE0"
+    },
+    {
+        "ID": 253,
+        "Locality": "Jablunkov_374",
+        "PhoneNumber": "60500",
+        "MAC": "004268344F40"
+    },
+    {
+        "ID": 254,
+        "Locality": "Jablunkov_374",
+        "PhoneNumber": "60500",
+        "MAC": "0042684A78E0"
+    },
+    {
+        "ID": 255,
+        "Locality": "Jablunkov_374",
+        "PhoneNumber": "60500",
+        "MAC": "A46C2A66B470"
+    },
+    {
+        "ID": 256,
+        "Locality": "Jaroměř_277",
+        "PhoneNumber": "36240",
+        "MAC": "A46C2A37BA50"
+    },
+    {
+        "ID": 257,
+        "Locality": "Jaroměř_277",
+        "PhoneNumber": "36240",
+        "MAC": "A46C2A66B410"
+    },
+    {
+        "ID": 258,
+        "Locality": "Jemnice_104",
+        "PhoneNumber": "42460",
+        "MAC": "904C81C6A056"
+    },
+    {
+        "ID": 259,
+        "Locality": "Jemnice_104",
+        "PhoneNumber": "42460",
+        "MAC": "904C81C6C998"
+    },
+    {
+        "ID": 260,
+        "Locality": "Jílové u Prahy_576",
+        "PhoneNumber": "30280",
+        "MAC": "00FEC8836E90"
+    },
+    {
+        "ID": 261,
+        "Locality": "Jílové u Prahy_576",
+        "PhoneNumber": "30280",
+        "MAC": "00FEC8A02350"
+    },
+    {
+        "ID": 262,
+        "Locality": "Jindřichův Hradec_600",
+        "PhoneNumber": "44250",
+        "MAC": "808DB7C6E7CC"
+    },
+    {
+        "ID": 263,
+        "Locality": "Jindřichův Hradec_600",
+        "PhoneNumber": "44250",
+        "MAC": "808DB7C6F904"
+    },
+    {
+        "ID": 264,
+        "Locality": "Jindřichův Hradec_600",
+        "PhoneNumber": "44250",
+        "MAC": "808DB7C6EBFC"
+    },
+    {
+        "ID": 265,
+        "Locality": "Jindřichův Hradec_600",
+        "PhoneNumber": "44250",
+        "MAC": "808DB7C7003E"
+    },
+    {
+        "ID": 266,
+        "Locality": "Jindřichův Hradec_600",
+        "PhoneNumber": "44250",
+        "MAC": "808DB7C6F410"
+    },
+    {
+        "ID": 267,
+        "Locality": "Jindřichův Hradec_600",
+        "PhoneNumber": "44250",
+        "MAC": "808DB7C6E8F4"
+    },
+    {
+        "ID": 268,
+        "Locality": "Jirkov_176",
+        "PhoneNumber": "48350",
+        "MAC": "904C81C6C0C8"
+    },
+    {
+        "ID": 269,
+        "Locality": "Jirkov_176",
+        "PhoneNumber": "48350",
+        "MAC": "904C81C6A7F2"
+    },
+    {
+        "ID": 270,
+        "Locality": "KAMERA (Barrandov)_500",
+        "PhoneNumber": "23720",
+        "MAC": "00B0E1A49600"
+    },
+    {
+        "ID": 271,
+        "Locality": "KAMERA (Barrandov)_500",
+        "PhoneNumber": "23720",
+        "MAC": "A46C2A881150"
+    },
+    {
+        "ID": 272,
+        "Locality": "Karlovo nám._460",
+        "PhoneNumber": "21560",
+        "MAC": "24F27FC2665A"
+    },
+    {
+        "ID": 273,
+        "Locality": "Karlovo nám._460",
+        "PhoneNumber": "21560",
+        "MAC": "24F27FC26656"
+    },
+    {
+        "ID": 274,
+        "Locality": "Karlovo nám._460",
+        "PhoneNumber": "21560",
+        "MAC": "3817C3C2369E"
+    },
+    {
+        "ID": 275,
+        "Locality": "Karlovy Vary_646",
+        "PhoneNumber": "48000",
+        "MAC": "808DB7C6F646"
+    },
+    {
+        "ID": 276,
+        "Locality": "Karlovy Vary_646",
+        "PhoneNumber": "48000",
+        "MAC": "808DB7C703F4"
+    },
+    {
+        "ID": 277,
+        "Locality": "Karlovy Vary_646",
+        "PhoneNumber": "48000",
+        "MAC": "808DB7C6F8E8"
+    },
+    {
+        "ID": 278,
+        "Locality": "Karlovy Vary_646",
+        "PhoneNumber": "48000",
+        "MAC": "808DB7C6E334"
+    },
+    {
+        "ID": 279,
+        "Locality": "Karlovy Vary_646",
+        "PhoneNumber": "48000",
+        "MAC": "24F27FC265C6"
+    },
+    {
+        "ID": 280,
+        "Locality": "Karlovy Vary_646",
+        "PhoneNumber": "48000",
+        "MAC": "808DB7C70548"
+    },
+    {
+        "ID": 281,
+        "Locality": "Karlovy Vary_646",
+        "PhoneNumber": "48000",
+        "MAC": "808DB7C6F3E4"
+    },
+    {
+        "ID": 282,
+        "Locality": "Karlovy Vary_646",
+        "PhoneNumber": "48000",
+        "MAC": "808DB7C6EA1E"
+    },
+    {
+        "ID": 283,
+        "Locality": "Karlovy Vary_646",
+        "PhoneNumber": "48000",
+        "MAC": "808DB7C70794"
+    },
+    {
+        "ID": 284,
+        "Locality": "Karlovy Vary_646",
+        "PhoneNumber": "48000",
+        "MAC": "808DB7C6F262"
+    },
+    {
+        "ID": 285,
+        "Locality": "Karlovy Vary_646",
+        "PhoneNumber": "48000",
+        "MAC": "24F27FC2661E"
+    },
+    {
+        "ID": 286,
+        "Locality": "Karlovy Vary_646",
+        "PhoneNumber": "48000",
+        "MAC": "808DB7C6F9D0"
+    },
+    {
+        "ID": 287,
+        "Locality": "Kladno_134",
+        "PhoneNumber": "24000",
+        "MAC": "84802D2B33C0"
+    },
+    {
+        "ID": 288,
+        "Locality": "Kladno_134",
+        "PhoneNumber": "24000",
+        "MAC": "84802D4F9FB0"
+    },
+    {
+        "ID": 289,
+        "Locality": "Kladno_134",
+        "PhoneNumber": "24000",
+        "MAC": "8478ACF1EE70"
+    },
+    {
+        "ID": 290,
+        "Locality": "Kladno_134",
+        "PhoneNumber": "24000",
+        "MAC": "88F031720E40"
+    },
+    {
+        "ID": 291,
+        "Locality": "Kladno_134",
+        "PhoneNumber": "24000",
+        "MAC": "3C08F662C550"
+    },
+    {
+        "ID": 292,
+        "Locality": "Kladno_134",
+        "PhoneNumber": "24000",
+        "MAC": "84802D4FA110"
+    },
+    {
+        "ID": 293,
+        "Locality": "Kolín_228",
+        "PhoneNumber": "28000",
+        "MAC": "0042681F31F0"
+    },
+    {
+        "ID": 294,
+        "Locality": "Kolín_228",
+        "PhoneNumber": "28000",
+        "MAC": "8875566FA930"
+    },
+    {
+        "ID": 295,
+        "Locality": "Kolín_228",
+        "PhoneNumber": "28000",
+        "MAC": "ECE1A98F17F0"
+    },
+    {
+        "ID": 296,
+        "Locality": "Kolín_228",
+        "PhoneNumber": "28000",
+        "MAC": "ECE1A9B0F990"
+    },
+    {
+        "ID": 297,
+        "Locality": "Kolín_228",
+        "PhoneNumber": "28000",
+        "MAC": "8478ACDFDC90"
+    },
+    {
+        "ID": 298,
+        "Locality": "Kolín_228",
+        "PhoneNumber": "28000",
+        "MAC": "84802D4FC300"
+    },
+    {
+        "ID": 299,
+        "Locality": "Kolín_228",
+        "PhoneNumber": "28000",
+        "MAC": "84802D4FD670"
+    },
+    {
+        "ID": 300,
+        "Locality": "Kostelec nad Černými Lesy_534",
+        "PhoneNumber": "28320",
+        "MAC": "A46C2A66A9C0"
+    },
+    {
+        "ID": 301,
+        "Locality": "Kostelec nad Černými Lesy_534",
+        "PhoneNumber": "28320",
+        "MAC": "A46C2A4AAFF0"
+    },
+    {
+        "ID": 302,
+        "Locality": "Kralovice_554",
+        "PhoneNumber": "46490",
+        "MAC": "0042684A79B0"
+    },
+    {
+        "ID": 303,
+        "Locality": "Kralovice_554",
+        "PhoneNumber": "46490",
+        "MAC": "A46C2A66AA20"
+    },
+    {
+        "ID": 304,
+        "Locality": "Kralupy nad Vltavou_144",
+        "PhoneNumber": "26100",
+        "MAC": "904C81C6C98C"
+    },
+    {
+        "ID": 305,
+        "Locality": "Kralupy nad Vltavou_144",
+        "PhoneNumber": "26100",
+        "MAC": "904C81C69FF2"
+    },
+    {
+        "ID": 306,
+        "Locality": "Kralupy nad Vltavou_144",
+        "PhoneNumber": "26100",
+        "MAC": "34DBFDC29E90"
+    },
+    {
+        "ID": 307,
+        "Locality": "Kralupy nad Vltavou_144",
+        "PhoneNumber": "26100",
+        "MAC": "C0255C977C50"
+    },
+    {
+        "ID": 308,
+        "Locality": "Kralupy nad Vltavou_144",
+        "PhoneNumber": "26100",
+        "MAC": "C0255C2376E0"
+    },
+    {
+        "ID": 309,
+        "Locality": "Krnov_419",
+        "PhoneNumber": "62300",
+        "MAC": "904C81C6BD4A"
+    },
+    {
+        "ID": 310,
+        "Locality": "Krnov_419",
+        "PhoneNumber": "62300",
+        "MAC": "904C81C69DA0"
+    },
+    {
+        "ID": 311,
+        "Locality": "Krnov_419",
+        "PhoneNumber": "62300",
+        "MAC": "904C81C6C442"
+    },
+    {
+        "ID": 312,
+        "Locality": "Krnov_419",
+        "PhoneNumber": "62300",
+        "MAC": "904C81C6B562"
+    },
+    {
+        "ID": 313,
+        "Locality": "Křenová_7",
+        "PhoneNumber": "50330",
+        "MAC": "A46C2A70F710"
+    },
+    {
+        "ID": 314,
+        "Locality": "Křídlovická_8",
+        "PhoneNumber": "50230",
+        "MAC": "904C81C6A204"
+    },
+    {
+        "ID": 315,
+        "Locality": "Křídlovická_8",
+        "PhoneNumber": "50230",
+        "MAC": "904C81C69EE4"
+    },
+    {
+        "ID": 316,
+        "Locality": "Křídlovická_8",
+        "PhoneNumber": "50230",
+        "MAC": "904C81C6C394"
+    },
+    {
+        "ID": 317,
+        "Locality": "Křídlovická_8",
+        "PhoneNumber": "50230",
+        "MAC": "904C81C6AA46"
+    },
+    {
+        "ID": 318,
+        "Locality": "Křídlovická_8",
+        "PhoneNumber": "50230",
+        "MAC": "904C81C6B17A"
+    },
+    {
+        "ID": 319,
+        "Locality": "Křídlovická_8",
+        "PhoneNumber": "50230",
+        "MAC": "904C81C69C6C"
+    },
+    {
+        "ID": 320,
+        "Locality": "Křídlovická_8",
+        "PhoneNumber": "50230",
+        "MAC": "904C81C6CAEE"
+    },
+    {
+        "ID": 321,
+        "Locality": "Kutná Hora_235",
+        "PhoneNumber": "28100",
+        "MAC": "A46C2A7FC850"
+    },
+    {
+        "ID": 322,
+        "Locality": "Kutná Hora_235",
+        "PhoneNumber": "28100",
+        "MAC": "00FEC8AA24D0"
+    },
+    {
+        "ID": 323,
+        "Locality": "Kutná Hora_235",
+        "PhoneNumber": "28100",
+        "MAC": "A46C2A816FF0"
+    },
+    {
+        "ID": 324,
+        "Locality": "Kutná Hora_235",
+        "PhoneNumber": "28100",
+        "MAC": "A46C2A712930"
+    },
+    {
+        "ID": 325,
+        "Locality": "Kutná Hora_235",
+        "PhoneNumber": "28100",
+        "MAC": "A46C2A6C4930"
+    },
+    {
+        "ID": 326,
+        "Locality": "Letovice_45",
+        "PhoneNumber": "52360",
+        "MAC": "904C81C6AA2A"
+    },
+    {
+        "ID": 327,
+        "Locality": "Letovice_45",
+        "PhoneNumber": "52360",
+        "MAC": "904C81C69B18"
+    },
+    {
+        "ID": 328,
+        "Locality": "Libochovice_195",
+        "PhoneNumber": "32610",
+        "MAC": "A46C2A6C4B30"
+    },
+    {
+        "ID": 329,
+        "Locality": "Litoměřice_192",
+        "PhoneNumber": "32350",
+        "MAC": "808DB7C6DF9A"
+    },
+    {
+        "ID": 330,
+        "Locality": "Litoměřice_192",
+        "PhoneNumber": "32350",
+        "MAC": "808DB7C70858"
+    },
+    {
+        "ID": 331,
+        "Locality": "Litoměřice_192",
+        "PhoneNumber": "32350",
+        "MAC": "808DB7C6FEB8"
+    },
+    {
+        "ID": 332,
+        "Locality": "Litoměřice_192",
+        "PhoneNumber": "32350",
+        "MAC": "808DB7C6E9A6"
+    },
+    {
+        "ID": 333,
+        "Locality": "Litoměřice_192",
+        "PhoneNumber": "32350",
+        "MAC": "808DB7C6E940"
+    },
+    {
+        "ID": 334,
+        "Locality": "Litomyšl_301",
+        "PhoneNumber": "40360",
+        "MAC": "00B0E1A4ABA0"
+    },
+    {
+        "ID": 335,
+        "Locality": "Litomyšl_301",
+        "PhoneNumber": "40360",
+        "MAC": "00B0E1A4ACC0"
+    },
+    {
+        "ID": 336,
+        "Locality": "Litomyšl_301",
+        "PhoneNumber": "40360",
+        "MAC": "A46C2A66B7A0"
+    },
+    {
+        "ID": 337,
+        "Locality": "Litovel_399",
+        "PhoneNumber": "58220",
+        "MAC": "904C81C6B7A0"
+    },
+    {
+        "ID": 338,
+        "Locality": "Litovel_399",
+        "PhoneNumber": "58220",
+        "MAC": "904C81C6B2E6"
+    },
+    {
+        "ID": 339,
+        "Locality": "Litovel_399",
+        "PhoneNumber": "58220",
+        "MAC": "904C81C6BA3A"
+    },
+    {
+        "ID": 340,
+        "Locality": "Litvínov_203",
+        "PhoneNumber": "32370",
+        "MAC": "00FEC817E740"
+    },
+    {
+        "ID": 341,
+        "Locality": "Litvínov_203",
+        "PhoneNumber": "32370",
+        "MAC": "A46C2A66B5B0"
+    },
+    {
+        "ID": 342,
+        "Locality": "Lysá nad Labem_242",
+        "PhoneNumber": "26400",
+        "MAC": "904C81C6CE20"
+    },
+    {
+        "ID": 343,
+        "Locality": "Lysá nad Labem_242",
+        "PhoneNumber": "26400",
+        "MAC": "904C81C6CA9A"
+    },
+    {
+        "ID": 344,
+        "Locality": "Lysá nad Labem_242",
+        "PhoneNumber": "26400",
+        "MAC": "904C81C6AF22"
+    },
+    {
+        "ID": 345,
+        "Locality": "Mělník_146",
+        "PhoneNumber": "26160",
+        "MAC": "808DB7C6E304"
+    },
+    {
+        "ID": 346,
+        "Locality": "Mělník_146",
+        "PhoneNumber": "26160",
+        "MAC": "808DB7C6F0D8"
+    },
+    {
+        "ID": 347,
+        "Locality": "Mělník_146",
+        "PhoneNumber": "26160",
+        "MAC": "808DB7C70054"
+    },
+    {
+        "ID": 348,
+        "Locality": "Mělník_146",
+        "PhoneNumber": "26160",
+        "MAC": "808DB7C703C0"
+    },
+    {
+        "ID": 349,
+        "Locality": "Mělník_146",
+        "PhoneNumber": "26160",
+        "MAC": "808DB7C708DC"
+    },
+    {
+        "ID": 350,
+        "Locality": "Mladá Boleslav_148",
+        "PhoneNumber": "26000",
+        "MAC": "84802D2B3960"
+    },
+    {
+        "ID": 351,
+        "Locality": "Mladá Boleslav_148",
+        "PhoneNumber": "26000",
+        "MAC": "84802D4FBCD0"
+    },
+    {
+        "ID": 352,
+        "Locality": "Mladá Boleslav_148",
+        "PhoneNumber": "26000",
+        "MAC": "84802D4FD470"
+    },
+    {
+        "ID": 353,
+        "Locality": "Mladá Boleslav_148",
+        "PhoneNumber": "26000",
+        "MAC": "A46C2A670B00"
+    },
+    {
+        "ID": 354,
+        "Locality": "Mladá Boleslav_148",
+        "PhoneNumber": "26000",
+        "MAC": "A46C2A7FC200"
+    },
+    {
+        "ID": 355,
+        "Locality": "Mladá Boleslav_148",
+        "PhoneNumber": "26000",
+        "MAC": "ECE1A98F3120"
+    },
+    {
+        "ID": 356,
+        "Locality": "Mladá Boleslav_148",
+        "PhoneNumber": "26000",
+        "MAC": "84802D4FAEB0"
+    },
+    {
+        "ID": 357,
+        "Locality": "Mladá Boleslav_148",
+        "PhoneNumber": "26000",
+        "MAC": "84802D2B3280"
+    },
+    {
+        "ID": 358,
+        "Locality": "Mladá Boleslav_148",
+        "PhoneNumber": "26000",
+        "MAC": "0C2724763CF0"
+    },
+    {
+        "ID": 359,
+        "Locality": "Moravský Krumlov_119",
+        "PhoneNumber": "56320",
+        "MAC": "A46C2A70F6E0"
+    },
+    {
+        "ID": 360,
+        "Locality": "Na Perštýně_451",
+        "PhoneNumber": "20400",
+        "MAC": "20A6CDC5817E"
+    },
+    {
+        "ID": 361,
+        "Locality": "Na Perštýně_451",
+        "PhoneNumber": "20400",
+        "MAC": "20A6CDC58180"
+    },
+    {
+        "ID": 362,
+        "Locality": "Na Perštýně_451",
+        "PhoneNumber": "20400",
+        "MAC": "20A6CDC58164"
+    },
+    {
+        "ID": 363,
+        "Locality": "Na Perštýně_451",
+        "PhoneNumber": "20400",
+        "MAC": "20A6CDC58176"
+    },
+    {
+        "ID": 364,
+        "Locality": "Na Perštýně_451",
+        "PhoneNumber": "20400",
+        "MAC": "20A6CDC5819A"
+    },
+    {
+        "ID": 365,
+        "Locality": "Náměšť nad Oslavou_102",
+        "PhoneNumber": "42360",
+        "MAC": "904C81C69D80"
+    },
+    {
+        "ID": 366,
+        "Locality": "Náměšť nad Oslavou_102",
+        "PhoneNumber": "42360",
+        "MAC": "904C81C6A524"
+    },
+    {
+        "ID": 367,
+        "Locality": "Náměšť nad Oslavou_102",
+        "PhoneNumber": "42360",
+        "MAC": "904C81C6CAD0"
+    },
+    {
+        "ID": 368,
+        "Locality": "Network L2 Support",
+        "PhoneNumber": "83001",
+        "MAC": "0C6803486F80"
+    },
+    {
+        "ID": 369,
+        "Locality": "Network L2 Support",
+        "PhoneNumber": "83001",
+        "MAC": "8478ACDFC3D0"
+    },
+    {
+        "ID": 370,
+        "Locality": "Network L2 Support",
+        "PhoneNumber": "83001",
+        "MAC": "3817C3C74F9C"
+    },
+    {
+        "ID": 371,
+        "Locality": "Network L2 Support",
+        "PhoneNumber": "83001",
+        "MAC": "20A6CDC58126"
+    },
+    {
+        "ID": 372,
+        "Locality": "Network L2 Support",
+        "PhoneNumber": "83001",
+        "MAC": "8875566f65a0"
+    },
+    {
+        "ID": 373,
+        "Locality": "Network L2 Support",
+        "PhoneNumber": "83001",
+        "MAC": "88F03157A7A0"
+    },
+    {
+        "ID": 374,
+        "Locality": "Network L2 Support",
+        "PhoneNumber": "83001",
+        "MAC": "88F03147BF00"
+    },
+    {
+        "ID": 375,
+        "Locality": "Network L2 Support",
+        "PhoneNumber": "83001",
+        "MAC": "88F031767270"
+    },
+    {
+        "ID": 376,
+        "Locality": "Network L2 Support",
+        "PhoneNumber": "83001",
+        "MAC": "88F03157C450"
+    },
+    {
+        "ID": 377,
+        "Locality": "Network L2 Support",
+        "PhoneNumber": "83001",
+        "MAC": "5C5015D03010"
+    },
+    {
+        "ID": 378,
+        "Locality": "Network L2 Support",
+        "PhoneNumber": "83001",
+        "MAC": "88F03147A750"
+    },
+    {
+        "ID": 379,
+        "Locality": "Network L2 Support",
+        "PhoneNumber": "83001",
+        "MAC": "A46C2A66B540"
+    },
+    {
+        "ID": 380,
+        "Locality": "Network L2 Support",
+        "PhoneNumber": "83001",
+        "MAC": "1005CA4F0370"
+    },
+    {
+        "ID": 381,
+        "Locality": "Network L2 Support",
+        "PhoneNumber": "83001",
+        "MAC": "1005CA4EFFB0"
+    },
+    {
+        "ID": 382,
+        "Locality": "Network L2 Support",
+        "PhoneNumber": "83001",
+        "MAC": "ECE1A9B0F060"
+    },
+    {
+        "ID": 383,
+        "Locality": "Network L2 Support",
+        "PhoneNumber": "83001",
+        "MAC": "ECE1A98F2200"
+    },
+    {
+        "ID": 384,
+        "Locality": "Network L2 Support",
+        "PhoneNumber": "83001",
+        "MAC": "188B9DB44F40"
+    },
+    {
+        "ID": 385,
+        "Locality": "Network L2 Support",
+        "PhoneNumber": "83001",
+        "MAC": "188B9DD28C70"
+    },
+    {
+        "ID": 386,
+        "Locality": "Network L2 Support",
+        "PhoneNumber": "83001",
+        "MAC": "188B9DC5F4F0"
+    },
+    {
+        "ID": 387,
+        "Locality": "Network L2 Support",
+        "PhoneNumber": "83001",
+        "MAC": "188B9DC5F880"
+    },
+    {
+        "ID": 388,
+        "Locality": "Network L2 Support",
+        "PhoneNumber": "83001",
+        "MAC": "188B9DB443B0"
+    },
+    {
+        "ID": 389,
+        "Locality": "Network L2 Support",
+        "PhoneNumber": "83001",
+        "MAC": "0C68035EF620"
+    },
+    {
+        "ID": 390,
+        "Locality": "Network L2 Support",
+        "PhoneNumber": "83001",
+        "MAC": "0C68032CBBA0"
+    },
+    {
+        "ID": 391,
+        "Locality": "Network L2 Support",
+        "PhoneNumber": "83001",
+        "MAC": "0C6803493390"
+    },
+    {
+        "ID": 392,
+        "Locality": "Network L2 Support",
+        "PhoneNumber": "83001",
+        "MAC": "0C68032D2510"
+    },
+    {
+        "ID": 393,
+        "Locality": "Network L2 Support",
+        "PhoneNumber": "83001",
+        "MAC": "0C68035F63B0"
+    },
+    {
+        "ID": 394,
+        "Locality": "Network L2 Support",
+        "PhoneNumber": "83001",
+        "MAC": "0C68035F63D0"
+    },
+    {
+        "ID": 395,
+        "Locality": "Network L2 Support",
+        "PhoneNumber": "83001",
+        "MAC": "0C68034928D0"
+    },
+    {
+        "ID": 396,
+        "Locality": "Network L2 Support",
+        "PhoneNumber": "83001",
+        "MAC": "0C680348B3A0"
+    },
+    {
+        "ID": 397,
+        "Locality": "Network L2 Support",
+        "PhoneNumber": "83001",
+        "MAC": "0C68035EB550"
+    },
+    {
+        "ID": 398,
+        "Locality": "Network L2 Support",
+        "PhoneNumber": "83001",
+        "MAC": "00F6632C0900"
+    },
+    {
+        "ID": 399,
+        "Locality": "Network L2 Support",
+        "PhoneNumber": "83001",
+        "MAC": "0C68032D8CB0"
+    },
+    {
+        "ID": 400,
+        "Locality": "Network L2 Support",
+        "PhoneNumber": "83001",
+        "MAC": "8875566F58B0"
+    },
+    {
+        "ID": 401,
+        "Locality": "Network L2 Support",
+        "PhoneNumber": "83001",
+        "MAC": "8875566F53E0"
+    },
+    {
+        "ID": 402,
+        "Locality": "Network L2 Support",
+        "PhoneNumber": "83001",
+        "MAC": "8875566F5550"
+    },
+    {
+        "ID": 403,
+        "Locality": "Network L2 Support",
+        "PhoneNumber": "83001",
+        "MAC": "8875566FAF40"
+    },
+    {
+        "ID": 404,
+        "Locality": "Network L2 Support",
+        "PhoneNumber": "83001",
+        "MAC": "88755682D630"
+    },
+    {
+        "ID": 405,
+        "Locality": "Network L2 Support",
+        "PhoneNumber": "83001",
+        "MAC": "88755682E590"
+    },
+    {
+        "ID": 406,
+        "Locality": "Network L2 Support",
+        "PhoneNumber": "83001",
+        "MAC": "C8F9F97234E0"
+    },
+    {
+        "ID": 407,
+        "Locality": "Network L2 Support",
+        "PhoneNumber": "83001",
+        "MAC": "C8F9F94C7C80"
+    },
+    {
+        "ID": 408,
+        "Locality": "Network L2 Support",
+        "PhoneNumber": "83001",
+        "MAC": "0C68032D8DD0"
+    },
+    {
+        "ID": 409,
+        "Locality": "Network L2 Support",
+        "PhoneNumber": "83001",
+        "MAC": "0C68032D8C60"
+    },
+    {
+        "ID": 410,
+        "Locality": "Network L2 Support",
+        "PhoneNumber": "83001",
+        "MAC": "0C68034929A0"
+    },
+    {
+        "ID": 411,
+        "Locality": "Network L2 Support",
+        "PhoneNumber": "83001",
+        "MAC": "0C6803492490"
+    },
+    {
+        "ID": 412,
+        "Locality": "Network L2 Support",
+        "PhoneNumber": "83001",
+        "MAC": "0C68034922F0"
+    },
+    {
+        "ID": 413,
+        "Locality": "Network L2 Support",
+        "PhoneNumber": "83001",
+        "MAC": "8478ACDFCEC0"
+    },
+    {
+        "ID": 414,
+        "Locality": "Network L2 Support",
+        "PhoneNumber": "83001",
+        "MAC": "8478ACF1F010"
+    },
+    {
+        "ID": 415,
+        "Locality": "Network L2 Support",
+        "PhoneNumber": "83001",
+        "MAC": "54781A2104F0"
+    },
+    {
+        "ID": 416,
+        "Locality": "Network L2 Support",
+        "PhoneNumber": "83001",
+        "MAC": "88755682F420"
+    },
+    {
+        "ID": 417,
+        "Locality": "Network L2 Support",
+        "PhoneNumber": "83001",
+        "MAC": "88755682F8D0"
+    },
+    {
+        "ID": 418,
+        "Locality": "Network L2 Support",
+        "PhoneNumber": "83001",
+        "MAC": "8875566FA110"
+    },
+    {
+        "ID": 419,
+        "Locality": "Network L2 Support",
+        "PhoneNumber": "83001",
+        "MAC": "8875566F6400"
+    },
+    {
+        "ID": 420,
+        "Locality": "Network L2 Support",
+        "PhoneNumber": "83001",
+        "MAC": "8875566F6AD0"
+    },
+    {
+        "ID": 421,
+        "Locality": "Network L2 Support",
+        "PhoneNumber": "83001",
+        "MAC": "88755682C620"
+    },
+    {
+        "ID": 422,
+        "Locality": "Network L2 Support",
+        "PhoneNumber": "83001",
+        "MAC": "8875566F6B70"
+    },
+    {
+        "ID": 423,
+        "Locality": "Network L2 Support",
+        "PhoneNumber": "83001",
+        "MAC": "8875566F6F70"
+    },
+    {
+        "ID": 424,
+        "Locality": "Nová Paka_264",
+        "PhoneNumber": "38100",
+        "MAC": "904C81C6C2DA"
+    },
+    {
+        "ID": 425,
+        "Locality": "Nová Paka_264",
+        "PhoneNumber": "38100",
+        "MAC": "904C81C6BFCE"
+    },
+    {
+        "ID": 426,
+        "Locality": "Nová Paka_264",
+        "PhoneNumber": "38100",
+        "MAC": "904C81C6CB5E"
+    },
+    {
+        "ID": 427,
+        "Locality": "Nové Butovice_491",
+        "PhoneNumber": "23530",
+        "MAC": "84802D2B46C0"
+    },
+    {
+        "ID": 428,
+        "Locality": "Nové Butovice_491",
+        "PhoneNumber": "23530",
+        "MAC": "A46C2A6CBA90"
+    },
+    {
+        "ID": 429,
+        "Locality": "Nuselská_454",
+        "PhoneNumber": "22170",
+        "MAC": "24F27FC2665E"
+    },
+    {
+        "ID": 430,
+        "Locality": "Nuselská_454",
+        "PhoneNumber": "22170",
+        "MAC": "24F27FC265FE"
+    },
+    {
+        "ID": 431,
+        "Locality": "Nuselská_454",
+        "PhoneNumber": "22170",
+        "MAC": "24F27FC265FC"
+    },
+    {
+        "ID": 432,
+        "Locality": "Nuselská_454",
+        "PhoneNumber": "22170",
+        "MAC": "24F27FC26600"
+    },
+    {
+        "ID": 433,
+        "Locality": "OA Kotva Ostrava-Zabreh_362",
+        "PhoneNumber": "60870",
+        "MAC": "904C81C6C49C"
+    },
+    {
+        "ID": 434,
+        "Locality": "OA Kotva Ostrava-Zabreh_362",
+        "PhoneNumber": "60870",
+        "MAC": "904C81C6B8C4"
+    },
+    {
+        "ID": 435,
+        "Locality": "OA Kotva Ostrava-Zabreh_362",
+        "PhoneNumber": "60870",
+        "MAC": "904C81C6B3A2"
+    },
+    {
+        "ID": 436,
+        "Locality": "OC Breda Opava_415",
+        "PhoneNumber": "62500",
+        "MAC": "904C81C69B56"
+    },
+    {
+        "ID": 437,
+        "Locality": "OC Breda Opava_415",
+        "PhoneNumber": "62500",
+        "MAC": "904C81C6B770"
+    },
+    {
+        "ID": 438,
+        "Locality": "OC Čakovice_516",
+        "PhoneNumber": "22010",
+        "MAC": "904C81C6C200"
+    },
+    {
+        "ID": 439,
+        "Locality": "OC Čakovice_516",
+        "PhoneNumber": "22010",
+        "MAC": "904C81C697C0"
+    },
+    {
+        "ID": 440,
+        "Locality": "OC Forum Liberec_188",
+        "PhoneNumber": "34570",
+        "MAC": "904C81C6BC5E"
+    },
+    {
+        "ID": 441,
+        "Locality": "OC Forum Liberec_188",
+        "PhoneNumber": "34570",
+        "MAC": "904C81C6BD94"
+    },
+    {
+        "ID": 442,
+        "Locality": "OC Forum Liberec_188",
+        "PhoneNumber": "34570",
+        "MAC": "904C81C6B022"
+    },
+    {
+        "ID": 443,
+        "Locality": "OC Forum Liberec_188",
+        "PhoneNumber": "34570",
+        "MAC": "904C81C6C6EC"
+    },
+    {
+        "ID": 444,
+        "Locality": "OC Forum Liberec_188",
+        "PhoneNumber": "34570",
+        "MAC": "904C81C693BC"
+    },
+    {
+        "ID": 445,
+        "Locality": "OC Globus Pardubice_287",
+        "PhoneNumber": "40700",
+        "MAC": "346288E388A0"
+    },
+    {
+        "ID": 446,
+        "Locality": "OC HANÁ Olomouc_398",
+        "PhoneNumber": "58490",
+        "MAC": "00FEC8DAD7D0"
+    },
+    {
+        "ID": 447,
+        "Locality": "OC Olympia Teplice-Srbice_211",
+        "PhoneNumber": "32440",
+        "MAC": "904C81C6C2FA"
+    },
+    {
+        "ID": 448,
+        "Locality": "OC Olympia Teplice-Srbice_211",
+        "PhoneNumber": "32440",
+        "MAC": "904C81C6CD44"
+    },
+    {
+        "ID": 449,
+        "Locality": "OC_Letnany_519",
+        "PhoneNumber": "21400",
+        "MAC": "808DB7C6EA68"
+    },
+    {
+        "ID": 450,
+        "Locality": "OC_Letnany_519",
+        "PhoneNumber": "21400",
+        "MAC": "808DB7C6E366"
+    },
+    {
+        "ID": 451,
+        "Locality": "Olomouc - OC Bělidla_401",
+        "PhoneNumber": "58320",
+        "MAC": "904C81C6A9E6"
+    },
+    {
+        "ID": 452,
+        "Locality": "Olomouc - OC Bělidla_401",
+        "PhoneNumber": "58320",
+        "MAC": "904C81C6C5C4"
+    },
+    {
+        "ID": 453,
+        "Locality": "Olomouc_397",
+        "PhoneNumber": "58000",
+        "MAC": "24F27FC26548"
+    },
+    {
+        "ID": 454,
+        "Locality": "Olomouc_397",
+        "PhoneNumber": "58000",
+        "MAC": "24F27FC265DC"
+    },
+    {
+        "ID": 455,
+        "Locality": "Olomouc_397",
+        "PhoneNumber": "58000",
+        "MAC": "24F27FC26638"
+    },
+    {
+        "ID": 456,
+        "Locality": "Olomouc_397",
+        "PhoneNumber": "58000",
+        "MAC": "24F27FC265E6"
+    },
+    {
+        "ID": 457,
+        "Locality": "Olomouc_397",
+        "PhoneNumber": "58000",
+        "MAC": "24F27FC2658C"
+    },
+    {
+        "ID": 458,
+        "Locality": "Olomouc_397",
+        "PhoneNumber": "58000",
+        "MAC": "24F27FC2657E"
+    },
+    {
+        "ID": 459,
+        "Locality": "Olomouc_397",
+        "PhoneNumber": "58000",
+        "MAC": "24F27FC2636E"
+    },
+    {
+        "ID": 460,
+        "Locality": "Olomouc_397",
+        "PhoneNumber": "58000",
+        "MAC": "24F27FC265E0"
+    },
+    {
+        "ID": 461,
+        "Locality": "Olomouc_397",
+        "PhoneNumber": "58000",
+        "MAC": "24F27FC265D4"
+    },
+    {
+        "ID": 462,
+        "Locality": "Olomouc_397",
+        "PhoneNumber": "58000",
+        "MAC": "24F27FC265D8"
+    },
+    {
+        "ID": 463,
+        "Locality": "Olomouc_397",
+        "PhoneNumber": "58000",
+        "MAC": "24F27FC265B6"
+    },
+    {
+        "ID": 464,
+        "Locality": "Olomouc_397",
+        "PhoneNumber": "58000",
+        "MAC": "24F27FC265E2"
+    },
+    {
+        "ID": 465,
+        "Locality": "Olomouc_397",
+        "PhoneNumber": "58000",
+        "MAC": "24F27FC264D0"
+    },
+    {
+        "ID": 466,
+        "Locality": "Ostrava - Hrabůvka_344",
+        "PhoneNumber": "60370",
+        "MAC": "3817C3C23458"
+    },
+    {
+        "ID": 467,
+        "Locality": "Ostrava - Hrabůvka_344",
+        "PhoneNumber": "60370",
+        "MAC": "3817C3C23456"
+    },
+    {
+        "ID": 468,
+        "Locality": "Ostrava - Hrabůvka_344",
+        "PhoneNumber": "60370",
+        "MAC": "3817C3C23404"
+    },
+    {
+        "ID": 469,
+        "Locality": "Ostrava - Hrabůvka_344",
+        "PhoneNumber": "60370",
+        "MAC": "3817C3C2340A"
+    },
+    {
+        "ID": 470,
+        "Locality": "Ostrava - OC Galerie_347",
+        "PhoneNumber": "60850",
+        "MAC": "904C81C6B6EC"
+    },
+    {
+        "ID": 471,
+        "Locality": "Ostrava - OC Galerie_347",
+        "PhoneNumber": "60850",
+        "MAC": "904C81C6BC26"
+    },
+    {
+        "ID": 472,
+        "Locality": "Ostrava - OC Galerie_347",
+        "PhoneNumber": "60850",
+        "MAC": "904C81C6CBC8"
+    },
+    {
+        "ID": 473,
+        "Locality": "Palmovka_479",
+        "PhoneNumber": "21810",
+        "MAC": "904C81C69A76"
+    },
+    {
+        "ID": 474,
+        "Locality": "Palmovka_479",
+        "PhoneNumber": "21810",
+        "MAC": "904C81C69C00"
+    },
+    {
+        "ID": 475,
+        "Locality": "Pardubice - Polabiny_285",
+        "PhoneNumber": "40530",
+        "MAC": "84802D2B3360"
+    },
+    {
+        "ID": 476,
+        "Locality": "Pardubice, tř. Míru_282",
+        "PhoneNumber": "40200",
+        "MAC": "808DB7C6F5A2"
+    },
+    {
+        "ID": 477,
+        "Locality": "Pardubice, tř. Míru_282",
+        "PhoneNumber": "40200",
+        "MAC": "808DB7C6EF58"
+    },
+    {
+        "ID": 478,
+        "Locality": "Pardubice, tř. Míru_282",
+        "PhoneNumber": "40200",
+        "MAC": "20A6CDC5814A"
+    },
+    {
+        "ID": 479,
+        "Locality": "Pardubice, tř. Míru_282",
+        "PhoneNumber": "40200",
+        "MAC": "808DB7C7007A"
+    },
+    {
+        "ID": 480,
+        "Locality": "Pardubice, tř. Míru_282",
+        "PhoneNumber": "40200",
+        "MAC": "808DB7C6F276"
+    },
+    {
+        "ID": 481,
+        "Locality": "Pardubice, tř. Míru_282",
+        "PhoneNumber": "40200",
+        "MAC": "808DB7C6F3B2"
+    },
+    {
+        "ID": 482,
+        "Locality": "Pardubice, tř. Míru_282",
+        "PhoneNumber": "40200",
+        "MAC": "808DB7C6EBEC"
+    },
+    {
+        "ID": 483,
+        "Locality": "Pardubice, tř. Míru_282",
+        "PhoneNumber": "40200",
+        "MAC": "808DB7C6FBB8"
+    },
+    {
+        "ID": 484,
+        "Locality": "Pardubice, tř. Míru_282",
+        "PhoneNumber": "40200",
+        "MAC": "20A6CDC580DA"
+    },
+    {
+        "ID": 485,
+        "Locality": "Pardubice, tř. Míru_282",
+        "PhoneNumber": "40200",
+        "MAC": "808DB7C6FDEC"
+    },
+    {
+        "ID": 486,
+        "Locality": "Pardubice, tř. Míru_282",
+        "PhoneNumber": "40200",
+        "MAC": "3817C3C23584"
+    },
+    {
+        "ID": 487,
+        "Locality": "Pardubice, tř. Míru_282",
+        "PhoneNumber": "40200",
+        "MAC": "808DB7C706BA"
+    },
+    {
+        "ID": 488,
+        "Locality": "Pardubice, tř. Míru_282",
+        "PhoneNumber": "40200",
+        "MAC": "808DB7C6EB98"
+    },
+    {
+        "ID": 489,
+        "Locality": "Pardubice, tř. Míru_282",
+        "PhoneNumber": "40200",
+        "MAC": "808DB7C6FE54"
+    },
+    {
+        "ID": 490,
+        "Locality": "Pardubice, tř. Míru_282",
+        "PhoneNumber": "40200",
+        "MAC": "808DB7C70850"
+    },
+    {
+        "ID": 491,
+        "Locality": "Pardubice, tř. Míru_282",
+        "PhoneNumber": "40200",
+        "MAC": "904C81C69CEA"
+    },
+    {
+        "ID": 492,
+        "Locality": "Pelhřimov_38",
+        "PhoneNumber": "42600",
+        "MAC": "808DB7C70210"
+    },
+    {
+        "ID": 493,
+        "Locality": "Pelhřimov_38",
+        "PhoneNumber": "42600",
+        "MAC": "808DB7C6FB34"
+    },
+    {
+        "ID": 494,
+        "Locality": "Pelhřimov_38",
+        "PhoneNumber": "42600",
+        "MAC": "808DB7C6E632"
+    },
+    {
+        "ID": 495,
+        "Locality": "Pelhřimov_38",
+        "PhoneNumber": "42600",
+        "MAC": "808DB7C6E8FE"
+    },
+    {
+        "ID": 496,
+        "Locality": "Pelhřimov_38",
+        "PhoneNumber": "42600",
+        "MAC": "808DB7C6FD72"
+    },
+    {
+        "ID": 497,
+        "Locality": "Pelhřimov_38",
+        "PhoneNumber": "42600",
+        "MAC": "808DB7C6E772"
+    },
+    {
+        "ID": 498,
+        "Locality": "Pelhřimov_38",
+        "PhoneNumber": "42600",
+        "MAC": "808DB7C6EF44"
+    },
+    {
+        "ID": 499,
+        "Locality": "Pelhřimov_38",
+        "PhoneNumber": "42600",
+        "MAC": "808DB7C6EFE8"
+    },
+    {
+        "ID": 500,
+        "Locality": "Písek_612",
+        "PhoneNumber": "44200",
+        "MAC": "ECE1A98F4210"
+    },
+    {
+        "ID": 501,
+        "Locality": "Písek_612",
+        "PhoneNumber": "44200",
+        "MAC": "84802D4FD320"
+    },
+    {
+        "ID": 502,
+        "Locality": "Písek_612",
+        "PhoneNumber": "44200",
+        "MAC": "346288E39440"
+    },
+    {
+        "ID": 503,
+        "Locality": "Plzeň - Bory_542",
+        "PhoneNumber": "46450",
+        "MAC": "A46C2A7FC890"
+    },
+    {
+        "ID": 504,
+        "Locality": "Plzeň - Bory_542",
+        "PhoneNumber": "46450",
+        "MAC": "0059DC872B80"
+    },
+    {
+        "ID": 505,
+        "Locality": "Plzeň - Lochotín_546",
+        "PhoneNumber": "46440",
+        "MAC": "88F03157AA50"
+    },
+    {
+        "ID": 506,
+        "Locality": "Plzeň - Lochotín_546",
+        "PhoneNumber": "46440",
+        "MAC": "88F0317210B0"
+    },
+    {
+        "ID": 507,
+        "Locality": "Plzeň - OC Plaza_541",
+        "PhoneNumber": "46100",
+        "MAC": "808DB7C89D04"
+    },
+    {
+        "ID": 508,
+        "Locality": "Plzeň - OC Plaza_541",
+        "PhoneNumber": "46100",
+        "MAC": "808DB7C8A07E"
+    },
+    {
+        "ID": 509,
+        "Locality": "Plzeň - OC Plaza_541",
+        "PhoneNumber": "46100",
+        "MAC": "808DB7C8A494"
+    },
+    {
+        "ID": 510,
+        "Locality": "Plzeň - Slovany_544",
+        "PhoneNumber": "46330",
+        "MAC": "904C81C6AED8"
+    },
+    {
+        "ID": 511,
+        "Locality": "Plzeň - Slovany_544",
+        "PhoneNumber": "46330",
+        "MAC": "904C81C69B84"
+    },
+    {
+        "ID": 512,
+        "Locality": "Plzeň - Slovany_544",
+        "PhoneNumber": "46330",
+        "MAC": "904C81C6AA12"
+    },
+    {
+        "ID": 513,
+        "Locality": "Podbořany_158",
+        "PhoneNumber": "48330",
+        "MAC": "00FEC8AA25C0"
+    },
+    {
+        "ID": 514,
+        "Locality": "Podbořany_158",
+        "PhoneNumber": "48330",
+        "MAC": "007888DEF6F0"
+    },
+    {
+        "ID": 515,
+        "Locality": "Poděbrady_241",
+        "PhoneNumber": "26200",
+        "MAC": "34DBFDC3B320"
+    },
+    {
+        "ID": 516,
+        "Locality": "Poděbrady_241",
+        "PhoneNumber": "26200",
+        "MAC": "84802D4FBA70"
+    },
+    {
+        "ID": 517,
+        "Locality": "Praha - Hlavní nádraží_504",
+        "PhoneNumber": "23580",
+        "MAC": "20A6CDC581AA"
+    },
+    {
+        "ID": 518,
+        "Locality": "Praha - Hlavní nádraží_504",
+        "PhoneNumber": "23580",
+        "MAC": "20A6CDC581E4"
+    },
+    {
+        "ID": 519,
+        "Locality": "Praha 4 - Haje_473",
+        "PhoneNumber": "21630",
+        "MAC": "20A6CDC581D6"
+    },
+    {
+        "ID": 520,
+        "Locality": "Praha 4 - Haje_473",
+        "PhoneNumber": "21630",
+        "MAC": "20A6CDC581D2"
+    },
+    {
+        "ID": 521,
+        "Locality": "Praha 5 - OC Zličín_492",
+        "PhoneNumber": "23570",
+        "MAC": "20A6CDC58150"
+    },
+    {
+        "ID": 522,
+        "Locality": "Praha 5 - OC Zličín_492",
+        "PhoneNumber": "23570",
+        "MAC": "20A6CDC581DC"
+    },
+    {
+        "ID": 523,
+        "Locality": "Praha 8 - OC Krakov_498",
+        "PhoneNumber": "21660",
+        "MAC": "904C81C6B8E4"
+    },
+    {
+        "ID": 524,
+        "Locality": "Praha 8 - OC Krakov_498",
+        "PhoneNumber": "21660",
+        "MAC": "904C81C6BA40"
+    },
+    {
+        "ID": 525,
+        "Locality": "Praha 8 - OC Krakov_498",
+        "PhoneNumber": "21660",
+        "MAC": "904C81C6AE2A"
+    },
+    {
+        "ID": 526,
+        "Locality": "Praha 8 - OC Krakov_498",
+        "PhoneNumber": "21660",
+        "MAC": "904C81C6CDDE"
+    },
+    {
+        "ID": 527,
+        "Locality": "Praha 8 (Sokolovská)_511",
+        "PhoneNumber": "21250",
+        "MAC": "20A6CDC58172"
+    },
+    {
+        "ID": 528,
+        "Locality": "Praha 8 (Sokolovská)_511",
+        "PhoneNumber": "21250",
+        "MAC": "20A6CDC58130"
+    },
+    {
+        "ID": 529,
+        "Locality": "Praha 8 (Sokolovská)_511",
+        "PhoneNumber": "21250",
+        "MAC": "20A6CDC5818E"
+    },
+    {
+        "ID": 530,
+        "Locality": "Praha 8 (Sokolovská)_511",
+        "PhoneNumber": "21250",
+        "MAC": "24F27FC07A06"
+    },
+    {
+        "ID": 531,
+        "Locality": "Praha 8 (Sokolovská)_511",
+        "PhoneNumber": "21250",
+        "MAC": "20A6CDC5819E"
+    },
+    {
+        "ID": 532,
+        "Locality": "Praha 8 (Sokolovská)_511",
+        "PhoneNumber": "21250",
+        "MAC": "20A6CDC5816E"
+    },
+    {
+        "ID": 533,
+        "Locality": "Praha 8 (Sokolovská)_511",
+        "PhoneNumber": "21250",
+        "MAC": "20A6CDC58192"
+    },
+    {
+        "ID": 534,
+        "Locality": "Praha 8 (Sokolovská)_511",
+        "PhoneNumber": "21250",
+        "MAC": "20A6CDC58196"
+    },
+    {
+        "ID": 535,
+        "Locality": "Přerov - OC Galerie_675",
+        "PhoneNumber": "52530",
+        "MAC": "904C81C6B7B6"
+    },
+    {
+        "ID": 536,
+        "Locality": "Přerov - OC Galerie_675",
+        "PhoneNumber": "52530",
+        "MAC": "904C81C6B75E"
+    },
+    {
+        "ID": 537,
+        "Locality": "Příbor_351",
+        "PhoneNumber": "60650",
+        "MAC": "00B0E1A4AC60"
+    },
+    {
+        "ID": 538,
+        "Locality": "Příbor_351",
+        "PhoneNumber": "60650",
+        "MAC": "84B8029CA2C0"
+    },
+    {
+        "ID": 539,
+        "Locality": "Příbor_351",
+        "PhoneNumber": "60650",
+        "MAC": "A46C2A670D10"
+    },
+    {
+        "ID": 540,
+        "Locality": "Rýmařov_417",
+        "PhoneNumber": "62340",
+        "MAC": "0059DC8725A0"
+    },
+    {
+        "ID": 541,
+        "Locality": "Rýmařov_417",
+        "PhoneNumber": "62340",
+        "MAC": "A46C2A70F280"
+    },
+    {
+        "ID": 542,
+        "Locality": "Sázava_570",
+        "PhoneNumber": "30340",
+        "MAC": "904C81C6A66A"
+    },
+    {
+        "ID": 543,
+        "Locality": "Sázava_570",
+        "PhoneNumber": "30340",
+        "MAC": "904C81C6CAB0"
+    },
+    {
+        "ID": 544,
+        "Locality": "Sedlčany_572",
+        "PhoneNumber": "30240",
+        "MAC": "904C81C69DC6"
+    },
+    {
+        "ID": 545,
+        "Locality": "Sedlčany_572",
+        "PhoneNumber": "30240",
+        "MAC": "904C81C6A892"
+    },
+    {
+        "ID": 546,
+        "Locality": "Sedlčany_572",
+        "PhoneNumber": "30240",
+        "MAC": "904C81C697D0"
+    },
+    {
+        "ID": 547,
+        "Locality": "Shopping Park Ostrava_360",
+        "PhoneNumber": "60460",
+        "MAC": "904C81C6C140"
+    },
+    {
+        "ID": 548,
+        "Locality": "Shopping Park Ostrava_360",
+        "PhoneNumber": "60460",
+        "MAC": "904C81C6ADD6"
+    },
+    {
+        "ID": 549,
+        "Locality": "Shopping Park Ostrava_360",
+        "PhoneNumber": "60460",
+        "MAC": "904C81C6BC74"
+    },
+    {
+        "ID": 550,
+        "Locality": "Slaný_136",
+        "PhoneNumber": "24260",
+        "MAC": "0042681F2FD0"
+    },
+    {
+        "ID": 551,
+        "Locality": "Slaný_136",
+        "PhoneNumber": "24260",
+        "MAC": "A46C2A6C5CE0"
+    },
+    {
+        "ID": 552,
+        "Locality": "Slaný_136",
+        "PhoneNumber": "24260",
+        "MAC": "A46C2A801950"
+    },
+    {
+        "ID": 553,
+        "Locality": "Slaný_136",
+        "PhoneNumber": "24260",
+        "MAC": "C0255C236000"
+    },
+    {
+        "ID": 554,
+        "Locality": "Sofijské náměstí_471",
+        "PhoneNumber": "22200",
+        "MAC": "904C81C6AC7A"
+    },
+    {
+        "ID": 555,
+        "Locality": "Sofijské náměstí_471",
+        "PhoneNumber": "22200",
+        "MAC": "904C81C6969C"
+    },
+    {
+        "ID": 556,
+        "Locality": "Sofijské náměstí_471",
+        "PhoneNumber": "22200",
+        "MAC": "904C81C6C87E"
+    },
+    {
+        "ID": 557,
+        "Locality": "Sofijské náměstí_471",
+        "PhoneNumber": "22200",
+        "MAC": "904C81C6C44E"
+    },
+    {
+        "ID": 558,
+        "Locality": "Sofijské náměstí_471",
+        "PhoneNumber": "22200",
+        "MAC": "904C81C6A734"
+    },
+    {
+        "ID": 559,
+        "Locality": "Sofijské náměstí_471",
+        "PhoneNumber": "22200",
+        "MAC": "904C81C6B926"
+    },
+    {
+        "ID": 560,
+        "Locality": "Sofijské náměstí_471",
+        "PhoneNumber": "22200",
+        "MAC": "904C81C6C1BE"
+    },
+    {
+        "ID": 561,
+        "Locality": "Sokolov_660",
+        "PhoneNumber": "48100",
+        "MAC": "808DB7C6E928"
+    },
+    {
+        "ID": 562,
+        "Locality": "Sokolov_660",
+        "PhoneNumber": "48100",
+        "MAC": "808DB7C6FCBE"
+    },
+    {
+        "ID": 563,
+        "Locality": "Sokolov_660",
+        "PhoneNumber": "48100",
+        "MAC": "808DB7C6F356"
+    },
+    {
+        "ID": 564,
+        "Locality": "Sokolov_660",
+        "PhoneNumber": "48100",
+        "MAC": "808DB7C6FE7A"
+    },
+    {
+        "ID": 565,
+        "Locality": "Sokolov_660",
+        "PhoneNumber": "48100",
+        "MAC": "808DB7C6EB94"
+    },
+    {
+        "ID": 566,
+        "Locality": "Sokolov_660",
+        "PhoneNumber": "48100",
+        "MAC": "808DB7C6E6E6"
+    },
+    {
+        "ID": 567,
+        "Locality": "Spořilov_470",
+        "PhoneNumber": "21690",
+        "MAC": "A46C2A51D270"
+    },
+    {
+        "ID": 568,
+        "Locality": "Spořilov_470",
+        "PhoneNumber": "21690",
+        "MAC": "A46C2A37B930"
+    },
+    {
+        "ID": 569,
+        "Locality": "Strakonice_624",
+        "PhoneNumber": "44300",
+        "MAC": "84802D2B40F0"
+    },
+    {
+        "ID": 570,
+        "Locality": "Strakonice_624",
+        "PhoneNumber": "44300",
+        "MAC": "ECE1A9B10910"
+    },
+    {
+        "ID": 571,
+        "Locality": "Strakonice_624",
+        "PhoneNumber": "44300",
+        "MAC": "ECE1A98F3460"
+    },
+    {
+        "ID": 572,
+        "Locality": "Strossmayerovo nám._493",
+        "PhoneNumber": "23300",
+        "MAC": "3817C3C23474"
+    },
+    {
+        "ID": 573,
+        "Locality": "Strossmayerovo nám._493",
+        "PhoneNumber": "23300",
+        "MAC": "3817C3C2347E"
+    },
+    {
+        "ID": 574,
+        "Locality": "Strossmayerovo nám._493",
+        "PhoneNumber": "23300",
+        "MAC": "3817C3C23484"
+    },
+    {
+        "ID": 575,
+        "Locality": "Strossmayerovo nám._493",
+        "PhoneNumber": "23300",
+        "MAC": "3817C3C2349A"
+    },
+    {
+        "ID": 576,
+        "Locality": "Strossmayerovo nám._493",
+        "PhoneNumber": "23300",
+        "MAC": "3817C3C2348C"
+    },
+    {
+        "ID": 577,
+        "Locality": "Strossmayerovo nám._493",
+        "PhoneNumber": "23300",
+        "MAC": "808DB7C8A6E0"
+    },
+    {
+        "ID": 578,
+        "Locality": "Strossmayerovo nám._493",
+        "PhoneNumber": "23300",
+        "MAC": "3817C3C2337C"
+    },
+    {
+        "ID": 579,
+        "Locality": "Strossmayerovo nám._493",
+        "PhoneNumber": "23300",
+        "MAC": "808DB7C89564"
+    },
+    {
+        "ID": 580,
+        "Locality": "Strossmayerovo nám._493",
+        "PhoneNumber": "23300",
+        "MAC": "20A6CDC58188"
+    },
+    {
+        "ID": 581,
+        "Locality": "Strossmayerovo nám._493",
+        "PhoneNumber": "23300",
+        "MAC": "3817C3C23466"
+    },
+    {
+        "ID": 582,
+        "Locality": "Strossmayerovo nám._493",
+        "PhoneNumber": "23300",
+        "MAC": "3817C3C232AE"
+    },
+    {
+        "ID": 583,
+        "Locality": "Strossmayerovo nám._493",
+        "PhoneNumber": "23300",
+        "MAC": "3817C3C23588"
+    },
+    {
+        "ID": 584,
+        "Locality": "Střelecká_290",
+        "PhoneNumber": "38200",
+        "MAC": "004268278730"
+    },
+    {
+        "ID": 585,
+        "Locality": "Střelecká_290",
+        "PhoneNumber": "38200",
+        "MAC": "007888BFCBD0"
+    },
+    {
+        "ID": 586,
+        "Locality": "Stříbro_667",
+        "PhoneNumber": "46400",
+        "MAC": "904C81C6B452"
+    },
+    {
+        "ID": 587,
+        "Locality": "Stříbro_667",
+        "PhoneNumber": "46400",
+        "MAC": "904C81C6A828"
+    },
+    {
+        "ID": 588,
+        "Locality": "Stříbro_667",
+        "PhoneNumber": "46400",
+        "MAC": "904C81C6BDFE"
+    },
+    {
+        "ID": 589,
+        "Locality": "Šternberk_402",
+        "PhoneNumber": "58200",
+        "MAC": "904C81C6BF42"
+    },
+    {
+        "ID": 590,
+        "Locality": "Šternberk_402",
+        "PhoneNumber": "58200",
+        "MAC": "904C81C6CB46"
+    },
+    {
+        "ID": 591,
+        "Locality": "Šternberk_402",
+        "PhoneNumber": "58200",
+        "MAC": "904C81C6B18C"
+    },
+    {
+        "ID": 592,
+        "Locality": "Štětí_194",
+        "PhoneNumber": "32500",
+        "MAC": "00B0E1A4AEA0"
+    },
+    {
+        "ID": 593,
+        "Locality": "Štětí_194",
+        "PhoneNumber": "32500",
+        "MAC": "A46C2A7FC450"
+    },
+    {
+        "ID": 594,
+        "Locality": "Šumperk_435",
+        "PhoneNumber": "58100",
+        "MAC": "808DB7C6E54E"
+    },
+    {
+        "ID": 595,
+        "Locality": "Šumperk_435",
+        "PhoneNumber": "58100",
+        "MAC": "808DB7C6FD20"
+    },
+    {
+        "ID": 596,
+        "Locality": "Šumperk_435",
+        "PhoneNumber": "58100",
+        "MAC": "808DB7C6F402"
+    },
+    {
+        "ID": 597,
+        "Locality": "Šumperk_435",
+        "PhoneNumber": "58100",
+        "MAC": "808DB7C6EA02"
+    },
+    {
+        "ID": 598,
+        "Locality": "Šumperk_435",
+        "PhoneNumber": "58100",
+        "MAC": "808DB7C6E88E"
+    },
+    {
+        "ID": 599,
+        "Locality": "Šumperk_435",
+        "PhoneNumber": "58100",
+        "MAC": "808DB7C6EE7C"
+    },
+    {
+        "ID": 600,
+        "Locality": "Šumperk_435",
+        "PhoneNumber": "58100",
+        "MAC": "808DB7C6F1F2"
+    },
+    {
+        "ID": 601,
+        "Locality": "Tachov_666",
+        "PhoneNumber": "46350",
+        "MAC": "A46C2A51B0D0"
+    },
+    {
+        "ID": 602,
+        "Locality": "Tanvald_179",
+        "PhoneNumber": "34250",
+        "MAC": "904C81C6B614"
+    },
+    {
+        "ID": 603,
+        "Locality": "Tanvald_179",
+        "PhoneNumber": "34250",
+        "MAC": "904C81C6CD0E"
+    },
+    {
+        "ID": 604,
+        "Locality": "Tanvald_179",
+        "PhoneNumber": "34250",
+        "MAC": "904C81C6CBCC"
+    },
+    {
+        "ID": 605,
+        "Locality": "Test_Viktor",
+        "PhoneNumber": "83013",
+        "MAC": "A46C2A4AC5B0"
+    },
+    {
+        "ID": 606,
+        "Locality": "Trhové Sviny_579",
+        "PhoneNumber": "44530",
+        "MAC": "A46C2A7FC4B0"
+    },
+    {
+        "ID": 607,
+        "Locality": "TRIO Ml. Boleslav_151",
+        "PhoneNumber": "26300",
+        "MAC": "84802D4FB6A0"
+    },
+    {
+        "ID": 608,
+        "Locality": "TRIO Ml. Boleslav_151",
+        "PhoneNumber": "26300",
+        "MAC": "84802D4FB750"
+    },
+    {
+        "ID": 609,
+        "Locality": "TRIO Ml. Boleslav_151",
+        "PhoneNumber": "26300",
+        "MAC": "ECE1A98F2DE0"
+    },
+    {
+        "ID": 610,
+        "Locality": "Trutnov_307",
+        "PhoneNumber": "36100",
+        "MAC": "C8F9F94C78A0"
+    },
+    {
+        "ID": 611,
+        "Locality": "Trutnov_307",
+        "PhoneNumber": "36100",
+        "MAC": "8875566F6380"
+    },
+    {
+        "ID": 612,
+        "Locality": "Trutnov_307",
+        "PhoneNumber": "36100",
+        "MAC": "8875566F7250"
+    },
+    {
+        "ID": 613,
+        "Locality": "Trutnov_307",
+        "PhoneNumber": "36100",
+        "MAC": "A46C2A6C4C80"
+    },
+    {
+        "ID": 614,
+        "Locality": "Třebíč_100",
+        "PhoneNumber": "48500",
+        "MAC": "3817C3C23546"
+    },
+    {
+        "ID": 615,
+        "Locality": "Třebíč_100",
+        "PhoneNumber": "48500",
+        "MAC": "3817C3C232E6"
+    },
+    {
+        "ID": 616,
+        "Locality": "Třebíč_100",
+        "PhoneNumber": "48500",
+        "MAC": "3817C3C234AA"
+    },
+    {
+        "ID": 617,
+        "Locality": "Třebíč_100",
+        "PhoneNumber": "48500",
+        "MAC": "3817C3C2340C"
+    },
+    {
+        "ID": 618,
+        "Locality": "Třebíč_100",
+        "PhoneNumber": "48500",
+        "MAC": "3817C3C232BE"
+    },
+    {
+        "ID": 619,
+        "Locality": "Třebíč_100",
+        "PhoneNumber": "48500",
+        "MAC": "3817C3C23512"
+    },
+    {
+        "ID": 620,
+        "Locality": "Třebíč_100",
+        "PhoneNumber": "48500",
+        "MAC": "3817C3C2351A"
+    },
+    {
+        "ID": 621,
+        "Locality": "Třebíč_100",
+        "PhoneNumber": "48500",
+        "MAC": "3817C3C234C8"
+    },
+    {
+        "ID": 622,
+        "Locality": "Třebíč_100",
+        "PhoneNumber": "48500",
+        "MAC": "484AE9C6682C"
+    },
+    {
+        "ID": 623,
+        "Locality": "Třebíč_100",
+        "PhoneNumber": "48500",
+        "MAC": "484AE9C682E2"
+    },
+    {
+        "ID": 624,
+        "Locality": "Třešť_86",
+        "PhoneNumber": "42420",
+        "MAC": "004268313BD0"
+    },
+    {
+        "ID": 625,
+        "Locality": "Třešť_86",
+        "PhoneNumber": "42420",
+        "MAC": "A46C2A379E70"
+    },
+    {
+        "ID": 626,
+        "Locality": "Turnov_212",
+        "PhoneNumber": "34200",
+        "MAC": "808DB7C6E9E4"
+    },
+    {
+        "ID": 627,
+        "Locality": "Turnov_212",
+        "PhoneNumber": "34200",
+        "MAC": "808DB7C701A0"
+    },
+    {
+        "ID": 628,
+        "Locality": "Turnov_212",
+        "PhoneNumber": "34200",
+        "MAC": "808DB7C6F62A"
+    },
+    {
+        "ID": 629,
+        "Locality": "Turnov_212",
+        "PhoneNumber": "34200",
+        "MAC": "808DB7C6EFCA"
+    },
+    {
+        "ID": 630,
+        "Locality": "Turnov_212",
+        "PhoneNumber": "34200",
+        "MAC": "808DB7C6E222"
+    },
+    {
+        "ID": 631,
+        "Locality": "Turnov_212",
+        "PhoneNumber": "34200",
+        "MAC": "808DB7C6EB14"
+    },
+    {
+        "ID": 632,
+        "Locality": "Týniště nad Orlicí_294",
+        "PhoneNumber": "36320",
+        "MAC": "904C81C69DB8"
+    },
+    {
+        "ID": 633,
+        "Locality": "Týniště nad Orlicí_294",
+        "PhoneNumber": "36320",
+        "MAC": "904C81C69F42"
+    },
+    {
+        "ID": 634,
+        "Locality": "Uherské Hradiště_107",
+        "PhoneNumber": "54100",
+        "MAC": "808DB7C6EC18"
+    },
+    {
+        "ID": 635,
+        "Locality": "Uherské Hradiště_107",
+        "PhoneNumber": "54100",
+        "MAC": "808DB7C6E550"
+    },
+    {
+        "ID": 636,
+        "Locality": "Uherské Hradiště_107",
+        "PhoneNumber": "54100",
+        "MAC": "808DB7C6FDF0"
+    },
+    {
+        "ID": 637,
+        "Locality": "Uherské Hradiště_107",
+        "PhoneNumber": "54100",
+        "MAC": "808DB7C6E888"
+    },
+    {
+        "ID": 638,
+        "Locality": "Uherské Hradiště_107",
+        "PhoneNumber": "54100",
+        "MAC": "808DB7C6E8E8"
+    },
+    {
+        "ID": 639,
+        "Locality": "Uherské Hradiště_107",
+        "PhoneNumber": "54100",
+        "MAC": "808DB7C6E77A"
+    },
+    {
+        "ID": 640,
+        "Locality": "Uherské Hradiště_107",
+        "PhoneNumber": "54100",
+        "MAC": "808DB7C7014E"
+    },
+    {
+        "ID": 641,
+        "Locality": "Újezd nad Lesy_520",
+        "PhoneNumber": "21790",
+        "MAC": "A46C2A801C90"
+    },
+    {
+        "ID": 642,
+        "Locality": "Václavské náměstí_446",
+        "PhoneNumber": "20100",
+        "MAC": "904C81C698B2"
+    },
+    {
+        "ID": 643,
+        "Locality": "Václavské náměstí_446",
+        "PhoneNumber": "20100",
+        "MAC": "904C81C695D0"
+    },
+    {
+        "ID": 644,
+        "Locality": "Václavské náměstí_446",
+        "PhoneNumber": "20100",
+        "MAC": "904C81C6A6D0"
+    },
+    {
+        "ID": 645,
+        "Locality": "Velké Meziříčí_335",
+        "PhoneNumber": "42260",
+        "MAC": "904C81C6C9AE"
+    },
+    {
+        "ID": 646,
+        "Locality": "Velké Meziříčí_335",
+        "PhoneNumber": "42260",
+        "MAC": "904C81C6A698"
+    },
+    {
+        "ID": 647,
+        "Locality": "Velké Meziříčí_335",
+        "PhoneNumber": "42260",
+        "MAC": "904C81C6A41E"
+    },
+    {
+        "ID": 648,
+        "Locality": "Velké Meziříčí_335",
+        "PhoneNumber": "42260",
+        "MAC": "904C81C6AD1E"
+    },
+    {
+        "ID": 649,
+        "Locality": "Vinohradská 112_465",
+        "PhoneNumber": "20360",
+        "MAC": "ECE1A98F00A0"
+    },
+    {
+        "ID": 650,
+        "Locality": "Vinohrady_27",
+        "PhoneNumber": "50570",
+        "MAC": "A46C2A4AC6E0"
+    },
+    {
+        "ID": 651,
+        "Locality": "Vlašim_563",
+        "PhoneNumber": "30160",
+        "MAC": "904C81C6B368"
+    },
+    {
+        "ID": 652,
+        "Locality": "Vlašim_563",
+        "PhoneNumber": "30160",
+        "MAC": "904C81C6ADE2"
+    },
+    {
+        "ID": 653,
+        "Locality": "Vlašim_563",
+        "PhoneNumber": "30160",
+        "MAC": "904C81C6A9C0"
+    },
+    {
+        "ID": 654,
+        "Locality": "Vlašim_563",
+        "PhoneNumber": "30160",
+        "MAC": "904C81C69F60"
+    },
+    {
+        "ID": 655,
+        "Locality": "Vlašim_563",
+        "PhoneNumber": "30160",
+        "MAC": "904C81C6C9AC"
+    },
+    {
+        "ID": 656,
+        "Locality": "Vlašim_563",
+        "PhoneNumber": "30160",
+        "MAC": "904C81C6CE72"
+    },
+    {
+        "ID": 657,
+        "Locality": "Vodičkova_447",
+        "PhoneNumber": "20300",
+        "MAC": "20A6CDC58096"
+    },
+    {
+        "ID": 658,
+        "Locality": "Vodičkova_447",
+        "PhoneNumber": "20300",
+        "MAC": "20A6CDC58170"
+    },
+    {
+        "ID": 659,
+        "Locality": "Vsetín_366",
+        "PhoneNumber": "54200",
+        "MAC": "00B0E1A4B1E0"
+    },
+    {
+        "ID": 660,
+        "Locality": "Vsetín_366",
+        "PhoneNumber": "54200",
+        "MAC": "00B0E1A6E7C0"
+    },
+    {
+        "ID": 661,
+        "Locality": "Vsetín_366",
+        "PhoneNumber": "54200",
+        "MAC": "ECE1A98F3A80"
+    },
+    {
+        "ID": 662,
+        "Locality": "Vsetín_366",
+        "PhoneNumber": "54200",
+        "MAC": "ECE1A98F4530"
+    },
+    {
+        "ID": 663,
+        "Locality": "Vyškov_114",
+        "PhoneNumber": "52240",
+        "MAC": "808DB7C6E292"
+    },
+    {
+        "ID": 664,
+        "Locality": "Vyškov_114",
+        "PhoneNumber": "52240",
+        "MAC": "808DB7C6E442"
+    },
+    {
+        "ID": 665,
+        "Locality": "Vyškov_114",
+        "PhoneNumber": "52240",
+        "MAC": "808DB7C6FBD8"
+    },
+    {
+        "ID": 666,
+        "Locality": "Vyškov_114",
+        "PhoneNumber": "52240",
+        "MAC": "808DB7C70052"
+    },
+    {
+        "ID": 667,
+        "Locality": "Vyškov_114",
+        "PhoneNumber": "52240",
+        "MAC": "808DB7C7048A"
+    },
+    {
+        "ID": 668,
+        "Locality": "Webináře BeeMobile",
+        "PhoneNumber": "84900",
+        "MAC": "0C680348B850"
+    },
+    {
+        "ID": 669,
+        "Locality": "Webináře BeeMobile",
+        "PhoneNumber": "84900",
+        "MAC": "004268042630"
+    },
+    {
+        "ID": 670,
+        "Locality": "Webináře BeeMobile",
+        "PhoneNumber": "84900",
+        "MAC": "00F6633B3550"
+    },
+    {
+        "ID": 671,
+        "Locality": "Webináře BeeMobile",
+        "PhoneNumber": "84900",
+        "MAC": "00F6634AC550"
+    },
+    {
+        "ID": 672,
+        "Locality": "Webináře BeeMobile",
+        "PhoneNumber": "84900",
+        "MAC": "0C68035EF3B0"
+    },
+    {
+        "ID": 673,
+        "Locality": "Webináře BeeMobile",
+        "PhoneNumber": "84900",
+        "MAC": "00F6631CCB70"
+    },
+    {
+        "ID": 674,
+        "Locality": "Webináře BeeMobile",
+        "PhoneNumber": "84900",
+        "MAC": "C8F9F95BB3E0"
+    },
+    {
+        "ID": 675,
+        "Locality": "Zbraslavice_238",
+        "PhoneNumber": "28380",
+        "MAC": "A46C2A20D360"
+    },
+    {
+        "ID": 676,
+        "Locality": "Zlín - Dvanáctka_68",
+        "PhoneNumber": "54390",
+        "MAC": "904C81C6B93E"
+    },
+    {
+        "ID": 677,
+        "Locality": "Zlín - Dvanáctka_68",
+        "PhoneNumber": "54390",
+        "MAC": "904C81C6B0B8"
+    },
+    {
+        "ID": 678,
+        "Locality": "Zlín - Dvanáctka_68",
+        "PhoneNumber": "54390",
+        "MAC": "904C81C6B8EA"
+    },
+    {
+        "ID": 679,
+        "Locality": "Zruč nad Sázavou_239",
+        "PhoneNumber": "28300",
+        "MAC": "00FEC8D5E670"
+    },
+    {
+        "ID": 680,
+        "Locality": "Žabovřesky_12",
+        "PhoneNumber": "50400",
+        "MAC": "904C81C69B9E"
+    },
+    {
+        "ID": 681,
+        "Locality": "Žabovřesky_12",
+        "PhoneNumber": "50400",
+        "MAC": "904C81C69304"
+    },
+    {
+        "ID": 682,
+        "Locality": "Žabovřesky_12",
+        "PhoneNumber": "50400",
+        "MAC": "904C81C6A416"
+    },
+    {
+        "ID": 683,
+        "Locality": "Žďár nad Sázavou_331",
+        "PhoneNumber": "42200",
+        "MAC": "3817C3C23504"
+    },
+    {
+        "ID": 684,
+        "Locality": "Žďár nad Sázavou_331",
+        "PhoneNumber": "42200",
+        "MAC": "3817C3C23414"
+    },
+    {
+        "ID": 685,
+        "Locality": "Žďár nad Sázavou_331",
+        "PhoneNumber": "42200",
+        "MAC": "3817C3C23426"
+    },
+    {
+        "ID": 686,
+        "Locality": "Žďár nad Sázavou_331",
+        "PhoneNumber": "42200",
+        "MAC": "3817C3C23468"
+    },
+    {
+        "ID": 687,
+        "Locality": "Žďár nad Sázavou_331",
+        "PhoneNumber": "42200",
+        "MAC": "3817C3C2344C"
+    },
+    {
+        "ID": 688,
+        "Locality": "Žďár nad Sázavou_331",
+        "PhoneNumber": "42200",
+        "MAC": "3817C3C2327A"
+    },
+    {
+        "ID": 689,
+        "Locality": "Žďár nad Sázavou_331",
+        "PhoneNumber": "42200",
+        "MAC": "3817C3C2343C"
+    },
+    {
+        "ID": 690,
+        "Locality": "Železný Brod_180",
+        "PhoneNumber": "34650",
+        "MAC": "A46C2A87B5D0"
+    }
+]

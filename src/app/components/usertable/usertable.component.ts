@@ -4,7 +4,7 @@ import { Observable } from 'rxjs';
 import {DataSource} from '@angular/cdk/collections';
 import { User } from '../../models/user.model';
 import {MatPaginatorModule} from '@angular/material/paginator';
-import { MatTableDataSource,MatPaginator } from '@angular/material';
+import { MatTableDataSource,MatPaginator,MatSort } from '@angular/material';
 import { JsonPipe } from '@angular/common';
 
 @Component({

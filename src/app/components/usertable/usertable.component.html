@@ -3,25 +3,30 @@
 
 
 
-<div>
+<div id="wrapper" >
     
-  <mat-table [dataSource]="dataSource">
+  <mat-table  [dataSource]="dataSource">
+
     <ng-container matColumnDef="ID">
-      <mat-header-cell *matHeaderCellDef [className]="'gray'"> ID </mat-header-cell>
-      <mat-cell *matCellDef="let user" [className]="'gray'"> {{user.ID}} </mat-cell>
+      <mat-header-cell *matHeaderCellDef> ID </mat-header-cell>
+      <mat-cell *matCellDef="let user" > {{user.ID}} </mat-cell>
     </ng-container>
+
     <ng-container matColumnDef="Locality">
       <mat-header-cell *matHeaderCellDef> Locality </mat-header-cell>
       <mat-cell *matCellDef="let user"> {{user.Locality}} </mat-cell>
     </ng-container>
+
     <ng-container matColumnDef="PhoneNumber">
       <mat-header-cell *matHeaderCellDef> PhoneNumber </mat-header-cell>
       <mat-cell *matCellDef="let user"> {{user.PhoneNumber}} </mat-cell>
     </ng-container>
+
     <ng-container matColumnDef="MAC">
       <mat-header-cell *matHeaderCellDef> MAC </mat-header-cell>
       <mat-cell *matCellDef="let user"> {{user.MAC}} </mat-cell>
     </ng-container>
+
     <mat-header-row *matHeaderRowDef="displayedColumns"></mat-header-row>
     <mat-row *matRowDef="let row; columns: displayedColumns; let even=even;" [ngClass]="{gray: even}"></mat-row>
   </mat-table>

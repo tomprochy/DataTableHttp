@@ -32,7 +32,7 @@ export class UsertableComponent implements OnInit {
       this.refreshData();
           this.interval = setInterval(() => { 
               this.refreshData(); 
-          }, 5000);
+          }, 500000);
           
     }
   //   ngOnInit() {

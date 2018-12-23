@@ -22,32 +22,3 @@
    */
 
 
-
-  .bla {background-color: red}
-
-
-  #wrapper {
-    /*Modified TProch width: 918px;*/ 
-    width: 1280px; 
-    margin: 0 auto;
-    padding-bottom: 40px;
-    margin-bottom: 20px;
-  }
-   .gray { background-color: #f5f5f6 }
-
-   .mat-table {
-    width: 100%;
-    margin: 0 auto;
-    clear: both;
-    border-collapse: separate;
-    border-spacing: 0;
-    border: 1px solid #ddd;
-    font-size: 11.5pt;
-    font-family: "Roboto", sans-serif;
-    font-weight: 600;
-    }
-    
-
-
-  .mat-header-row {
-    background-color: #2095f2  }

@@ -19,7 +19,9 @@ import { WelcomeComponent } from './components/welcome/welcome/welcome.component
     AppComponent,
     UsertableComponent,
     TableOverviewExample,
-    ApListComponent
+    ApListComponent,
+    RpListComponent,
+    WelcomeComponent
   ],
   imports: [
     BrowserModule,

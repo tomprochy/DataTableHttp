@@ -13,3 +13,6 @@ export class RpListComponent implements OnInit {
   }
 
 }
+
+
+//https://stackblitz.com/edit/angular-hbakxo-5jeaic?file=app%2Ftable-filtering-example.ts zde je jak se dělá filtr per sloupec

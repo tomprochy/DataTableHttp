@@ -1,30 +1,34 @@
-    
-  <mat-table  [dataSource]="dataSource">
+<div class="example-header">
+  <mat-form-field>
+    <input matInput (keyup)="applyFilter($event.target.value)" placeholder="Filter">
+  </mat-form-field>
+</div>
 
-    <ng-container matColumnDef="ID">
-      <mat-header-cell *matHeaderCellDef> ID </mat-header-cell>
-      <mat-cell *matCellDef="let user" > {{user.ID}} </mat-cell>
-    </ng-container>
+<mat-table [dataSource]="dataSource" matSort>
 
-    <ng-container matColumnDef="Locality">
-      <mat-header-cell *matHeaderCellDef> Locality </mat-header-cell>
-      <mat-cell *matCellDef="let user"> {{user.Locality}} </mat-cell>
-    </ng-container>
+  <ng-container matColumnDef="ID">
+    <mat-header-cell *matHeaderCellDef mat-sort-header> ID </mat-header-cell>
+    <mat-cell *matCellDef="let user"> {{user.ID}} </mat-cell>
+  </ng-container>
 
-    <ng-container matColumnDef="PhoneNumber">
-      <mat-header-cell *matHeaderCellDef> PhoneNumber </mat-header-cell>
-      <mat-cell *matCellDef="let user"> {{user.PhoneNumber}} </mat-cell>
-    </ng-container>
+  <ng-container matColumnDef="Locality">
+    <mat-header-cell *matHeaderCellDef mat-sort-header> Locality </mat-header-cell>
+    <mat-cell *matCellDef="let user"> {{user.Locality}} </mat-cell>
+  </ng-container>
 
-    <ng-container matColumnDef="MAC">
-      <mat-header-cell *matHeaderCellDef> MAC </mat-header-cell>
-      <mat-cell *matCellDef="let user"> {{user.MAC}} </mat-cell>
-    </ng-container>
+  <ng-container matColumnDef="PhoneNumber">
+    <mat-header-cell *matHeaderCellDef mat-sort-header> PhoneNumber </mat-header-cell>
+    <mat-cell *matCellDef="let user"> {{user.PhoneNumber}} </mat-cell>
+  </ng-container>
 
-    <mat-header-row *matHeaderRowDef="displayedColumns"></mat-header-row>
-    <mat-row *matRowDef="let row; columns: displayedColumns; let even=even;" [ngClass]="{gray: even}"></mat-row>
-  </mat-table>
+  <ng-container matColumnDef="MAC">
+    <mat-header-cell *matHeaderCellDef mat-sort-header> MAC </mat-header-cell>
+    <mat-cell *matCellDef="let user"> {{user.MAC}} </mat-cell>
+  </ng-container>
 
-  <mat-paginator [pageSizeOptions]="[5, 10, 25, 100]"></mat-paginator>
-  <!-- zde jsem skončil, paginator nefunguje -->
+  <mat-header-row *matHeaderRowDef="displayedColumns"></mat-header-row>
+  <mat-row *matRowDef="let row; columns: displayedColumns; let even=even;" [ngClass]="{gray: even}"></mat-row>
+</mat-table>
 
+<mat-paginator [pageSizeOptions]="[5, 10, 25, 100]"></mat-paginator>
+<!-- zde jsem skončil, paginator nefunguje -->

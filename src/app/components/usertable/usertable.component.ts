@@ -1,4 +1,4 @@
-import { Component, OnInit, ViewChild } from '@angular/core';
+import { Component, OnInit, ViewChild, ChangeDetectorRef  } from '@angular/core';
 import { UserService } from '../../services/user.service';
 import { Observable } from 'rxjs';
 import { DataSource } from '@angular/cdk/collections';
@@ -21,6 +21,29 @@ export class UsertableComponent implements OnInit {
   nameFilter = new FormControl();
   globalFilter = '';
   runOrder: number = 1;
+  arr: Array<{ID: number, Locality: string, PhoneNumber: string, MAC: string}> = [
+    {
+      "ID": 1,
+      "Locality": "Antal Office ggg",
+      "PhoneNumber": "83067",
+      "MAC": "0C680348B3A0"
+  },
+  {
+      "ID": 2,
+      "Locality": "Antal Office mmm",
+      "PhoneNumber": "83067",
+      "MAC": "0C68035EB550"
+  },
+  {
+      "ID": 3,
+      "Locality": "Antal Office hhh",
+      "PhoneNumber": "83067",
+      "MAC": "0C68032D8CB0"
+  },
+
+  ];
+
+// zde jsem skončil, zdá se že díky novému způsobu načítání dat to mám vyladěné
 
   filteredValues = {
     Locality: '', PhoneNumber: '', MAC: ''
@@ -40,11 +63,16 @@ export class UsertableComponent implements OnInit {
 
   ngOnInit() {
     console.log('on init function');
+    this.dataSource = new MatTableDataSource(this.Users);
+    this.dataSource.filterPredicate = this.customFilterPredicate();
+    this.dataSource.filter = JSON.stringify(this.filteredValues);
+    this.dataSource.paginator = this.paginator;
+    this.dataSource.sort = this.sort;
     this.refreshData();
  
     this.interval = setInterval(() => {
       this.refreshData();
-    }, 20000);
+    }, 10000);
 
 
     // zde se přijímá event změny v zahlavích sloupců
@@ -68,26 +96,27 @@ export class UsertableComponent implements OnInit {
       Usersbb => {
         this.Users = Usersbb;
         console.log("nactenaData poradi: " + this.num);
+        this.dataSource.data = this.Users;
+        //console.log(JSON.stringify(this.dataSource.data));
+        //console.log("nactenaData poradi: "+ this.num + JSON.stringify(this.Users));
         // Varianta s printem dat.
         //console.log("nactenaData poradi: "+ this.num + JSON.stringify(Usersbb));
         this.num++;
+        if (this.runOrder == 2)
+        {
+          console.log("runorder2")
+          this.dataSource.data = this.arr;
+        }
       },
       error => {
         this.errorMessage = <any>error;
         console.log(this.errorMessage);
       },
       () => {
-        if (this.runOrder == 1)
-        {
-          console.log("bezim prvne");
-        this.dataSource = new MatTableDataSource(this.Users);
-        this.dataSource.filterPredicate = this.customFilterPredicate();
-        this.dataSource.filter = JSON.stringify(this.filteredValues);
-        this.dataSource.paginator = this.paginator;
-        this.dataSource.sort = this.sort;
-        }
         
-     // zde jsem skončil, upravil jsem načítání matTable s tím, že ve subscribe-final větvi je jen při prvním běhu, pak již ne, zatím se zdá vše OK
+
+
+        // zde jsem skončil, upravil jsem načítání matTable s tím, že ve subscribe-final větvi je jen při prvním běhu, pak již ne, zatím se zdá vše OK
       //  console.log("subscribe hotovo")
         this.runOrder++;
       }
@@ -96,17 +125,11 @@ export class UsertableComponent implements OnInit {
 
   ngAfterViewInit() {
 
-    
+    console.log('on after init function');
     
   }
 
-  // applyFilter(filterValue: string) {
-  //   filterValue = filterValue.trim(); // Remove whitespace
-  //   filterValue = filterValue.toLowerCase(); // Datasource defaults to lowercase matches
-  //   this.dataSource.filter = filterValue;
-  // }
-
-  applyFilter(filter: string) {
+   applyFilter(filter: string) {
    // console.log("spoustim filter se stringem: " + filter)
     this.globalFilter = filter;
     this.dataSource.filter = JSON.stringify(this.filteredValues);

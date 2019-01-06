@@ -12,6 +12,7 @@ import { UserService } from './services/user.service';
 import { ApListComponent } from './components/ap/ap-list/ap-list.component';
 import { RpListComponent } from './components/rp/rp-list/rp-list.component';
 import { WelcomeComponent } from './components/welcome/welcome/welcome.component';
+import {FormsModule, ReactiveFormsModule} from '@angular/forms';
 
 
 @NgModule({
@@ -32,6 +33,8 @@ import { WelcomeComponent } from './components/welcome/welcome/welcome.component
     MatFormFieldModule,
     MatInputModule,
     MatSortModule,
+    ReactiveFormsModule,
+    FormsModule,
     RouterModule.forRoot([
       {path: 'users', component:UsertableComponent},
       {path: 'aps', component:AppComponent},

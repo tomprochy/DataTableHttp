@@ -5,6 +5,7 @@ import { DataSource } from '@angular/cdk/collections';
 import { User } from '../../models/user.model';
 import { MatTableDataSource, MatPaginator, MatSort } from '@angular/material';
 import { FormControl } from '@angular/forms';
+import { jsonpCallbackContext } from '@angular/common/http/src/module';
 
 @Component({
   selector: 'usertable',
@@ -19,10 +20,10 @@ export class UsertableComponent implements OnInit {
   positionFilter = new FormControl();
   nameFilter = new FormControl();
   globalFilter = '';
+  runOrder: number = 1;
 
   filteredValues = {
-    position: '', name: '', weight: '',
-    symbol: ''
+    Locality: '', PhoneNumber: '', MAC: ''
   };
 
   displayedColumns = ['ID', 'Locality', 'PhoneNumber', 'MAC'];
@@ -33,15 +34,20 @@ export class UsertableComponent implements OnInit {
 
   constructor(private userService: UserService) {
     console.log("inCtr");
+    //this.dataSource = new MatTableDataSource(this.Users);
+     console.log("V constructoru: " + JSON.stringify(this.Users));
   }
 
   ngOnInit() {
     console.log('on init function');
     this.refreshData();
+ 
     this.interval = setInterval(() => {
       this.refreshData();
-    }, 500000);
+    }, 20000);
 
+
+    // zde se přijímá event změny v zahlavích sloupců
     this.positionFilter.valueChanges.subscribe((positionFilterValue) => {
       this.filteredValues['position'] = positionFilterValue;
       this.dataSource.filter = JSON.stringify(this.filteredValues);
@@ -52,15 +58,10 @@ export class UsertableComponent implements OnInit {
       this.dataSource.filter = JSON.stringify(this.filteredValues);
     });
 
-    this.dataSource.filterPredicate = this.customFilterPredicate();
+    // vlastní predikát pro filtr, ten základní stringifikuje řádek a hledá v něm string ve filtru a vrací true pokud jej najde jako substring
+    
 
   }
-  //   ngOnInit() {
-  //     this.refreshData();
-  //     this.interval = setInterval(() => { 
-  //         this.refreshData(); 
-  //     }, 5000);
-  // }
 
   refreshData(): void {
     let a = this.userService.getUser().subscribe(
@@ -76,17 +77,27 @@ export class UsertableComponent implements OnInit {
         console.log(this.errorMessage);
       },
       () => {
+        if (this.runOrder == 1)
+        {
+          console.log("bezim prvne");
         this.dataSource = new MatTableDataSource(this.Users);
+        this.dataSource.filterPredicate = this.customFilterPredicate();
+        this.dataSource.filter = JSON.stringify(this.filteredValues);
         this.dataSource.paginator = this.paginator;
         this.dataSource.sort = this.sort;
-        console.log("subscribe hotovo")
+        }
+        
+     // zde jsem skončil, upravil jsem načítání matTable s tím, že ve subscribe-final větvi je jen při prvním běhu, pak již ne, zatím se zdá vše OK
+      //  console.log("subscribe hotovo")
+        this.runOrder++;
       }
     );
   }
-  // zde jsem skončil, je tam CORS problém - nastavil jsem data source do BM
+
   ngAfterViewInit() {
 
-
+    
+    
   }
 
   // applyFilter(filterValue: string) {
@@ -95,32 +106,48 @@ export class UsertableComponent implements OnInit {
   //   this.dataSource.filter = filterValue;
   // }
 
-  applyFilter(filter) {
+  applyFilter(filter: string) {
+   // console.log("spoustim filter se stringem: " + filter)
     this.globalFilter = filter;
     this.dataSource.filter = JSON.stringify(this.filteredValues);
   }
 
+  // custom filter - vyhodnocuje se pro každý řádek tabulky
   customFilterPredicate() {
     const myFilterPredicate = (data: User, filter: string): boolean => {
+      
       var globalMatch = !this.globalFilter;
 
+      // posoudí jestli řádek matchuje globální search, pokud ano, tak zkouší i sloupcové. 
+      // běžný predicate by to nemusel posuzovat per sloupec, protože posuzuje řádek jako celek
       if (this.globalFilter) {
-        // search all text fields
-        globalMatch = data.name.toString().trim().toLowerCase().indexOf(this.globalFilter.toLowerCase()) !== -1;
+        globalMatch =
+        data.Locality.toString().trim().toLowerCase().indexOf(this.globalFilter.toLowerCase()) !== -1 ||
+        data.MAC.toString().trim().toLowerCase().indexOf(this.globalFilter.toLowerCase()) !== -1 ||
+        data.PhoneNumber.toString().trim().toLowerCase().indexOf(this.globalFilter.toLowerCase()) !== -1;
       }
 
+      // globalMatch je true pokud se globalSearch v řádku našel. Pokud ne, tak končím, neb sloupcové už nic nezmění
       if (!globalMatch) {
-        return;
+        //console.log("Netrefil jsem u " + data.ID)
+        return false;
       }
-
+      //console.log("global je true");
+      // do filtru vstupuje stringifikovaný json hodnot objektu filteredValues. Případ kdy je global match true, ale sloupcové prázdné funguje, protože
+      // indexOf vrací pro prázdný string v json objektu "searchString" true
+      
       let searchString = JSON.parse(filter);
-      return data.position.toString().trim().indexOf(searchString.position) !== -1 &&
-        data.name.toString().trim().toLowerCase().indexOf(searchString.name.toLowerCase()) !== -1;
+     // console.log(searchString);
+      var a = data.Locality.toString().trim().indexOf(searchString.Locality) !== -1;
+      var b = data.MAC.toString().trim().indexOf(searchString.PhoneNumber) !== -1;
+      var c = data.PhoneNumber.toString().trim().indexOf(searchString.MAC) !== -1;
+     // console.log(a + " " + b + " " + c)
+      var res = a && b && c;
+      return res;
     }
     return myFilterPredicate;
   }
 
 }
 
-// zde jsem skoncil a moc nerozumim provedeni extra filtru pro kazdy sloupec
 // napoveda zde: https://stackblitz.com/edit/angular-hbakxo-5jeaic?file=app%2Ftable-filtering-example.ts

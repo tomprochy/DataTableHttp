@@ -1,6 +1,9 @@
 export interface User {
     ID: number; //name
-    Locality: string; // email
-    PhoneNumber: string; //phone
+    LastName: string; // email
+    FirstName: string; //phone
+    Branch: string;
+    CellPhone: string;
     MAC: string;
+    Info: string;
 }
